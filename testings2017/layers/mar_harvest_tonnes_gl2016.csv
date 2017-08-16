@@ -1,0 +1,4213 @@
+rgn_id,taxa_code,year,tonnes
+1,Atlantic cod_623,2001,15
+1,Atlantic cod_623,2002,0
+1,Atlantic cod_623,2003,0
+1,Atlantic cod_623,2004,8
+1,Atlantic cod_623,2005,69
+1,Atlantic cod_623,2006,543
+1,Atlantic cod_623,2007,1111
+1,Atlantic cod_623,2008,1822
+1,Atlantic cod_623,2009,0
+1,Atlantic cod_623,2010,0.7
+1,Atlantic cod_623,2011,0
+1,Atlantic cod_623,2012,0
+1,Atlantic cod_623,2013,0
+1,Atlantic cod_623,2014,0
+1,Atlantic halibut_624,1999,4
+1,Atlantic halibut_624,2000,1
+1,Atlantic halibut_624,2001,80
+1,Atlantic halibut_624,2002,187
+1,Atlantic halibut_624,2003,187
+1,Atlantic halibut_624,2004,187
+1,Atlantic halibut_624,2005,272
+1,Atlantic halibut_624,2006,233
+1,Atlantic halibut_624,2007,147
+1,Atlantic halibut_624,2008,206
+1,Atlantic halibut_624,2009,189
+1,Atlantic halibut_624,2010,139
+1,Atlantic halibut_624,2011,83.1
+1,Atlantic halibut_624,2012,73
+1,Atlantic halibut_624,2013,56
+1,Atlantic halibut_624,2014,70
+1,Atlantic salmon_625,1970,244
+1,Atlantic salmon_625,1971,216
+1,Atlantic salmon_625,1972,213
+1,Atlantic salmon_625,1973,401
+1,Atlantic salmon_625,1974,372
+1,Atlantic salmon_625,1975,393
+1,Atlantic salmon_625,1976,209
+1,Atlantic salmon_625,1977,115
+1,Atlantic salmon_625,1978,378
+1,Atlantic salmon_625,1979,520
+1,Atlantic salmon_625,1980,598
+1,Atlantic salmon_625,1981,1133
+1,Atlantic salmon_625,1982,2152
+1,Atlantic salmon_625,1983,2536
+1,Atlantic salmon_625,1984,3912
+1,Atlantic salmon_625,1985,6921
+1,Atlantic salmon_625,1986,10337
+1,Atlantic salmon_625,1987,12721
+1,Atlantic salmon_625,1988,17951
+1,Atlantic salmon_625,1989,28603
+1,Atlantic salmon_625,1990,32004
+1,Atlantic salmon_625,1991,40657
+1,Atlantic salmon_625,1992,36302
+1,Atlantic salmon_625,1993,48791
+1,Atlantic salmon_625,1994,64266
+1,Atlantic salmon_625,1995,70320
+1,Atlantic salmon_625,1996,83342
+1,Atlantic salmon_625,1997,99422
+1,Atlantic salmon_625,1998,110917
+1,Atlantic salmon_625,1999,126686
+1,Atlantic salmon_625,2000,128959
+1,Atlantic salmon_625,2001,138519
+1,Atlantic salmon_625,2002,145609
+1,Atlantic salmon_625,2003,145609
+1,Atlantic salmon_625,2004,158099
+1,Atlantic salmon_625,2005,129823
+1,Atlantic salmon_625,2006,131973
+1,Atlantic salmon_625,2007,130104
+1,Atlantic salmon_625,2008,128744
+1,Atlantic salmon_625,2009,144654
+1,Atlantic salmon_625,2010,154625
+1,Atlantic salmon_625,2011,158305
+1,Atlantic salmon_625,2012,162543
+1,Atlantic salmon_625,2013,163512
+1,Atlantic salmon_625,2014,165e3
+1,Blue mussel_626,1984,1003
+1,Blue mussel_626,1985,1204
+1,Blue mussel_626,1986,1561
+1,Blue mussel_626,1987,2185
+1,Blue mussel_626,1988,2124
+1,Blue mussel_626,1989,2278
+1,Blue mussel_626,1990,2044
+1,Blue mussel_626,1991,4826
+1,Blue mussel_626,1992,3880
+1,Blue mussel_626,1993,4211
+1,Blue mussel_626,1994,4017
+1,Blue mussel_626,1995,5801
+1,Blue mussel_626,1996,8347
+1,Blue mussel_626,1997,13127
+1,Blue mussel_626,1998,8956
+1,Blue mussel_626,1999,9535
+1,Blue mussel_626,2000,11107
+1,Blue mussel_626,2001,17332
+1,Blue mussel_626,2002,17580
+1,Blue mussel_626,2003,19218
+1,Blue mussel_626,2004,30699
+1,Blue mussel_626,2005,28506
+1,Blue mussel_626,2006,23960
+1,Blue mussel_626,2007,25669
+1,Blue mussel_626,2008,28247
+1,Blue mussel_626,2009,31929
+1,Blue mussel_626,2010,30212
+1,Blue mussel_626,2011,26158
+1,Blue mussel_626,2012,26021
+1,Blue mussel_626,2013,22480
+1,Blue mussel_626,2014,22500
+1,Common edible cockle_627,1989,2
+1,Common edible cockle_627,1990,3
+1,Common edible cockle_627,1991,3
+1,Common edible cockle_627,1992,3
+1,Common edible cockle_627,1993,4
+1,Common edible cockle_627,1994,3
+1,Common edible cockle_627,1995,5
+1,Common edible cockle_627,1996,8
+1,Common edible cockle_627,1997,20
+1,Common edible cockle_627,1998,10
+1,Common edible cockle_627,1999,43
+1,Common edible cockle_627,2000,43
+1,Common edible cockle_627,2001,105
+1,Common edible cockle_627,2002,105
+1,Common edible cockle_627,2003,20
+1,Common edible cockle_627,2004,24
+1,Common edible cockle_627,2005,5
+1,Common edible cockle_627,2006,0
+1,Common edible cockle_627,2007,2
+1,Common edible cockle_627,2008,2057
+1,Common edible cockle_627,2009,2027
+1,Common edible cockle_627,2010,7.3
+1,Common edible cockle_627,2011,5.6
+1,Common edible cockle_627,2012,0
+1,Common edible cockle_627,2013,2504
+1,Common edible cockle_627,2014,5
+1,Cupped oysters nei_628,1988,220
+1,Cupped oysters nei_628,1989,220
+1,Cupped oysters nei_628,1990,220
+1,Cupped oysters nei_628,1991,228
+1,Cupped oysters nei_628,1992,286
+1,Cupped oysters nei_628,1993,290
+1,Cupped oysters nei_628,1994,290
+1,Cupped oysters nei_628,1995,268
+1,Cupped oysters nei_628,1996,584
+1,Cupped oysters nei_628,1997,400
+1,Cupped oysters nei_628,1998,146
+1,Cupped oysters nei_628,1999,910
+1,Cupped oysters nei_628,2000,479
+1,Cupped oysters nei_628,2001,0
+1,Cupped oysters nei_628,2002,0
+1,Cupped oysters nei_628,2003,0
+1,Cupped oysters nei_628,2004,0
+1,Cupped oysters nei_628,2005,0
+1,Cupped oysters nei_628,2006,0
+1,Cupped oysters nei_628,2007,0
+1,Cupped oysters nei_628,2008,0
+1,Cupped oysters nei_628,2009,0
+1,Cupped oysters nei_628,2010,0
+1,Cupped oysters nei_628,2011,0
+1,Cupped oysters nei_628,2012,0
+1,Cupped oysters nei_628,2013,0
+1,Cupped oysters nei_628,2014,0
+1,European flat oyster_629,1987,86
+1,European flat oyster_629,1988,99
+1,European flat oyster_629,1989,60
+1,European flat oyster_629,1990,184
+1,European flat oyster_629,1991,76
+1,European flat oyster_629,1992,266
+1,European flat oyster_629,1993,310
+1,European flat oyster_629,1994,315
+1,European flat oyster_629,1995,189
+1,European flat oyster_629,1996,144
+1,European flat oyster_629,1997,90
+1,European flat oyster_629,1998,51
+1,European flat oyster_629,1999,11
+1,European flat oyster_629,2000,4
+1,European flat oyster_629,2001,145
+1,European flat oyster_629,2002,132
+1,European flat oyster_629,2003,144
+1,European flat oyster_629,2004,149
+1,European flat oyster_629,2005,42
+1,European flat oyster_629,2006,54
+1,European flat oyster_629,2007,87
+1,European flat oyster_629,2008,270
+1,European flat oyster_629,2009,265
+1,European flat oyster_629,2010,116.85
+1,European flat oyster_629,2011,114
+1,European flat oyster_629,2012,111
+1,European flat oyster_629,2013,55
+1,European flat oyster_629,2014,60
+1,European seabass_630,2003,12
+1,European seabass_630,2004,12
+1,European seabass_630,2005,0
+1,European seabass_630,2006,0
+1,European seabass_630,2007,0
+1,European seabass_630,2008,23
+1,European seabass_630,2009,322
+1,European seabass_630,2010,473
+1,European seabass_630,2011,490
+1,European seabass_630,2012,190
+1,European seabass_630,2013,252
+1,European seabass_630,2014,250
+1,Great Atlantic scallop_631,1986,25
+1,Great Atlantic scallop_631,1987,21
+1,Great Atlantic scallop_631,1988,9
+1,Great Atlantic scallop_631,1989,11
+1,Great Atlantic scallop_631,1990,13
+1,Great Atlantic scallop_631,1991,38
+1,Great Atlantic scallop_631,1992,59
+1,Great Atlantic scallop_631,1993,59
+1,Great Atlantic scallop_631,1994,24
+1,Great Atlantic scallop_631,1995,36
+1,Great Atlantic scallop_631,1996,36
+1,Great Atlantic scallop_631,1997,27
+1,Great Atlantic scallop_631,1998,41
+1,Great Atlantic scallop_631,1999,27
+1,Great Atlantic scallop_631,2000,41
+1,Great Atlantic scallop_631,2001,28
+1,Great Atlantic scallop_631,2002,39
+1,Great Atlantic scallop_631,2003,46
+1,Great Atlantic scallop_631,2004,14
+1,Great Atlantic scallop_631,2005,12
+1,Great Atlantic scallop_631,2006,10
+1,Great Atlantic scallop_631,2007,2
+1,Great Atlantic scallop_631,2008,15
+1,Great Atlantic scallop_631,2009,4
+1,Great Atlantic scallop_631,2010,0
+1,Great Atlantic scallop_631,2011,10
+1,Great Atlantic scallop_631,2012,7
+1,Great Atlantic scallop_631,2013,5
+1,Great Atlantic scallop_631,2014,10
+1,Grooved carpet shell_632,1986,0.1
+1,Grooved carpet shell_632,1987,1
+1,Grooved carpet shell_632,1988,0
+1,Grooved carpet shell_632,1989,0
+1,Grooved carpet shell_632,1990,0
+1,Grooved carpet shell_632,1991,0
+1,Grooved carpet shell_632,1992,1
+1,Grooved carpet shell_632,1993,1
+1,Grooved carpet shell_632,1994,0.1
+1,Grooved carpet shell_632,1995,0
+1,Grooved carpet shell_632,1996,0
+1,Grooved carpet shell_632,1997,0
+1,Grooved carpet shell_632,1998,0
+1,Grooved carpet shell_632,1999,0
+1,Grooved carpet shell_632,2000,0
+1,Grooved carpet shell_632,2001,0
+1,Grooved carpet shell_632,2002,0
+1,Grooved carpet shell_632,2003,5
+1,Grooved carpet shell_632,2004,5
+1,Grooved carpet shell_632,2005,0
+1,Grooved carpet shell_632,2006,4
+1,Grooved carpet shell_632,2007,4
+1,Grooved carpet shell_632,2008,0
+1,Grooved carpet shell_632,2009,0
+1,Grooved carpet shell_632,2010,0
+1,Grooved carpet shell_632,2011,0
+1,Grooved carpet shell_632,2012,0
+1,Grooved carpet shell_632,2013,0
+1,Grooved carpet shell_632,2014,0
+1,Japanese carpet shell_633,1989,0.1
+1,Japanese carpet shell_633,1990,46
+1,Japanese carpet shell_633,1991,50
+1,Japanese carpet shell_633,1992,48
+1,Japanese carpet shell_633,1993,51
+1,Japanese carpet shell_633,1994,21
+1,Japanese carpet shell_633,1995,17
+1,Japanese carpet shell_633,1996,21
+1,Japanese carpet shell_633,1997,36
+1,Japanese carpet shell_633,1998,31
+1,Japanese carpet shell_633,1999,29
+1,Japanese carpet shell_633,2000,29
+1,Japanese carpet shell_633,2001,36
+1,Japanese carpet shell_633,2002,36
+1,Japanese carpet shell_633,2003,23
+1,Japanese carpet shell_633,2004,50
+1,Japanese carpet shell_633,2005,5
+1,Japanese carpet shell_633,2006,50
+1,Japanese carpet shell_633,2007,1
+1,Japanese carpet shell_633,2008,0
+1,Japanese carpet shell_633,2009,10
+1,Japanese carpet shell_633,2010,14.5
+1,Japanese carpet shell_633,2011,5.2
+1,Japanese carpet shell_633,2012,5
+1,Japanese carpet shell_633,2013,11
+1,Japanese carpet shell_633,2014,5
+1,Northern quahog(=Hard clam)_634,2003,1
+1,Northern quahog(=Hard clam)_634,2004,1
+1,Northern quahog(=Hard clam)_634,2005,250
+1,Northern quahog(=Hard clam)_634,2006,0
+1,Northern quahog(=Hard clam)_634,2007,4
+1,Northern quahog(=Hard clam)_634,2008,4
+1,Northern quahog(=Hard clam)_634,2009,4
+1,Northern quahog(=Hard clam)_634,2010,12
+1,Northern quahog(=Hard clam)_634,2011,10
+1,Northern quahog(=Hard clam)_634,2012,9
+1,Northern quahog(=Hard clam)_634,2013,1
+1,Northern quahog(=Hard clam)_634,2014,10
+1,Pacific cupped oyster_635,1961,100
+1,Pacific cupped oyster_635,1962,0
+1,Pacific cupped oyster_635,1963,0
+1,Pacific cupped oyster_635,1964,100
+1,Pacific cupped oyster_635,1965,100
+1,Pacific cupped oyster_635,1966,100
+1,Pacific cupped oyster_635,1967,100
+1,Pacific cupped oyster_635,1968,100
+1,Pacific cupped oyster_635,1969,100
+1,Pacific cupped oyster_635,1970,100
+1,Pacific cupped oyster_635,1971,100
+1,Pacific cupped oyster_635,1972,0.1
+1,Pacific cupped oyster_635,1973,0.1
+1,Pacific cupped oyster_635,1974,1
+1,Pacific cupped oyster_635,1975,3
+1,Pacific cupped oyster_635,1976,6
+1,Pacific cupped oyster_635,1977,0.1
+1,Pacific cupped oyster_635,1978,10
+1,Pacific cupped oyster_635,1979,17
+1,Pacific cupped oyster_635,1980,30
+1,Pacific cupped oyster_635,1981,45
+1,Pacific cupped oyster_635,1982,39
+1,Pacific cupped oyster_635,1983,49
+1,Pacific cupped oyster_635,1984,124
+1,Pacific cupped oyster_635,1985,123
+1,Pacific cupped oyster_635,1986,216
+1,Pacific cupped oyster_635,1987,215
+1,Pacific cupped oyster_635,1988,257
+1,Pacific cupped oyster_635,1989,300
+1,Pacific cupped oyster_635,1990,262
+1,Pacific cupped oyster_635,1991,354
+1,Pacific cupped oyster_635,1992,415
+1,Pacific cupped oyster_635,1993,437
+1,Pacific cupped oyster_635,1994,357
+1,Pacific cupped oyster_635,1995,535
+1,Pacific cupped oyster_635,1996,553
+1,Pacific cupped oyster_635,1997,597
+1,Pacific cupped oyster_635,1998,559
+1,Pacific cupped oyster_635,1999,232
+1,Pacific cupped oyster_635,2000,633
+1,Pacific cupped oyster_635,2001,826
+1,Pacific cupped oyster_635,2002,796
+1,Pacific cupped oyster_635,2003,1012
+1,Pacific cupped oyster_635,2004,1504
+1,Pacific cupped oyster_635,2005,922
+1,Pacific cupped oyster_635,2006,1376
+1,Pacific cupped oyster_635,2007,1037
+1,Pacific cupped oyster_635,2008,766
+1,Pacific cupped oyster_635,2009,1366
+1,Pacific cupped oyster_635,2010,1149.6
+1,Pacific cupped oyster_635,2011,754
+1,Pacific cupped oyster_635,2012,1206
+1,Pacific cupped oyster_635,2013,1261
+1,Pacific cupped oyster_635,2014,1250
+1,Queen scallop_636,1986,4
+1,Queen scallop_636,1987,128
+1,Queen scallop_636,1988,172
+1,Queen scallop_636,1989,100
+1,Queen scallop_636,1990,54
+1,Queen scallop_636,1991,61
+1,Queen scallop_636,1992,62
+1,Queen scallop_636,1993,62
+1,Queen scallop_636,1994,38
+1,Queen scallop_636,1995,46
+1,Queen scallop_636,1996,51
+1,Queen scallop_636,1997,46
+1,Queen scallop_636,1998,147
+1,Queen scallop_636,1999,114
+1,Queen scallop_636,2000,58
+1,Queen scallop_636,2001,47
+1,Queen scallop_636,2002,19
+1,Queen scallop_636,2003,19
+1,Queen scallop_636,2004,50
+1,Queen scallop_636,2005,58
+1,Queen scallop_636,2006,60
+1,Queen scallop_636,2007,15
+1,Queen scallop_636,2008,27
+1,Queen scallop_636,2009,5.52
+1,Queen scallop_636,2010,7.3
+1,Queen scallop_636,2011,1
+1,Queen scallop_636,2012,0.4
+1,Queen scallop_636,2013,1
+1,Queen scallop_636,2014,1
+1,Rainbow trout_637,1979,97
+1,Rainbow trout_637,1980,86
+1,Rainbow trout_637,1981,112
+1,Rainbow trout_637,1982,133
+1,Rainbow trout_637,1983,73
+1,Rainbow trout_637,1984,87
+1,Rainbow trout_637,1985,81
+1,Rainbow trout_637,1986,247
+1,Rainbow trout_637,1987,641
+1,Rainbow trout_637,1988,709
+1,Rainbow trout_637,1989,482
+1,Rainbow trout_637,1990,1296
+1,Rainbow trout_637,1991,178
+1,Rainbow trout_638,1992,1
+1,Rainbow trout_637,1992,249
+1,Rainbow trout_638,1993,1
+1,Rainbow trout_637,1993,425
+1,Rainbow trout_638,1994,1
+1,Rainbow trout_637,1994,0
+1,Rainbow trout_638,1995,4
+1,Rainbow trout_637,1995,0
+1,Rainbow trout_638,1996,4
+1,Rainbow trout_637,1996,0
+1,Rainbow trout_638,1997,0.1
+1,Rainbow trout_637,1997,0
+1,Rainbow trout_638,1998,0.1
+1,Rainbow trout_637,1998,502
+1,Rainbow trout_638,1999,0.1
+1,Rainbow trout_637,1999,1075
+1,Rainbow trout_638,2000,0.1
+1,Rainbow trout_637,2000,784
+1,Rainbow trout_638,2001,0.1
+1,Rainbow trout_637,2001,561
+1,Rainbow trout_638,2002,0
+1,Rainbow trout_637,2002,997
+1,Rainbow trout_638,2003,0
+1,Rainbow trout_637,2003,997
+1,Rainbow trout_638,2004,0
+1,Rainbow trout_637,2004,1664
+1,Rainbow trout_638,2005,0
+1,Rainbow trout_637,2005,1242
+1,Rainbow trout_638,2006,0
+1,Rainbow trout_637,2006,2341
+1,Rainbow trout_638,2007,0
+1,Rainbow trout_637,2007,2353
+1,Rainbow trout_638,2008,0
+1,Rainbow trout_637,2008,2628
+1,Rainbow trout_638,2009,0
+1,Rainbow trout_637,2009,2620
+1,Rainbow trout_638,2010,0
+1,Rainbow trout_637,2010,1606
+1,Rainbow trout_638,2011,0
+1,Rainbow trout_637,2011,1156
+1,Rainbow trout_638,2012,0
+1,Rainbow trout_637,2012,2076
+1,Rainbow trout_638,2013,0
+1,Rainbow trout_637,2013,1964
+1,Rainbow trout_638,2014,0
+1,Rainbow trout_637,2014,2e3
+1,Sea trout_639,1999,50
+1,Sea trout_639,2000,42
+1,Sea trout_639,2001,12
+1,Sea trout_639,2002,92
+1,Sea trout_639,2003,92
+1,Sea trout_639,2004,116
+1,Sea trout_639,2005,75
+1,Sea trout_639,2006,207
+1,Sea trout_639,2007,71
+1,Sea trout_639,2008,311
+1,Sea trout_639,2009,0
+1,Sea trout_639,2010,6
+1,Sea trout_639,2011,17.5
+1,Sea trout_639,2012,8.2
+1,Sea trout_639,2013,2
+1,Sea trout_639,2014,2
+1,Turbot_640,2000,107
+1,Turbot_640,2001,120
+1,Turbot_640,2002,45
+1,Turbot_640,2003,128
+1,Turbot_640,2004,233
+1,Turbot_640,2005,58
+1,Turbot_640,2006,62
+1,Turbot_640,2007,62
+1,Turbot_640,2008,20
+1,Turbot_640,2009,1
+1,Turbot_640,2010,0.3
+1,Turbot_640,2011,0
+1,Turbot_640,2012,0
+1,Turbot_640,2013,0
+1,Turbot_640,2014,0
+2,Atlantic cod_623,2001,15
+2,Atlantic cod_623,2002,0
+2,Atlantic cod_623,2003,0
+2,Atlantic cod_623,2004,8
+2,Atlantic cod_623,2005,69
+2,Atlantic cod_623,2006,543
+2,Atlantic cod_623,2007,1111
+2,Atlantic cod_623,2008,1822
+2,Atlantic cod_623,2009,0
+2,Atlantic cod_623,2010,0.7
+2,Atlantic cod_623,2011,0
+2,Atlantic cod_623,2012,0
+2,Atlantic cod_623,2013,0
+2,Atlantic cod_623,2014,0
+2,Atlantic halibut_624,1999,4
+2,Atlantic halibut_624,2000,1
+2,Atlantic halibut_624,2001,80
+2,Atlantic halibut_624,2002,187
+2,Atlantic halibut_624,2003,187
+2,Atlantic halibut_624,2004,187
+2,Atlantic halibut_624,2005,272
+2,Atlantic halibut_624,2006,233
+2,Atlantic halibut_624,2007,147
+2,Atlantic halibut_624,2008,206
+2,Atlantic halibut_624,2009,189
+2,Atlantic halibut_624,2010,139
+2,Atlantic halibut_624,2011,83.1
+2,Atlantic halibut_624,2012,73
+2,Atlantic halibut_624,2013,56
+2,Atlantic halibut_624,2014,70
+2,Atlantic salmon_625,1970,244
+2,Atlantic salmon_625,1971,216
+2,Atlantic salmon_625,1972,213
+2,Atlantic salmon_625,1973,401
+2,Atlantic salmon_625,1974,372
+2,Atlantic salmon_625,1975,393
+2,Atlantic salmon_625,1976,209
+2,Atlantic salmon_625,1977,115
+2,Atlantic salmon_625,1978,378
+2,Atlantic salmon_625,1979,520
+2,Atlantic salmon_625,1980,598
+2,Atlantic salmon_625,1981,1133
+2,Atlantic salmon_625,1982,2152
+2,Atlantic salmon_625,1983,2536
+2,Atlantic salmon_625,1984,3912
+2,Atlantic salmon_625,1985,6921
+2,Atlantic salmon_625,1986,10337
+2,Atlantic salmon_625,1987,12721
+2,Atlantic salmon_625,1988,17951
+2,Atlantic salmon_625,1989,28603
+2,Atlantic salmon_625,1990,32004
+2,Atlantic salmon_625,1991,40657
+2,Atlantic salmon_625,1992,36302
+2,Atlantic salmon_625,1993,48791
+2,Atlantic salmon_625,1994,64266
+2,Atlantic salmon_625,1995,70320
+2,Atlantic salmon_625,1996,83342
+2,Atlantic salmon_625,1997,99422
+2,Atlantic salmon_625,1998,110917
+2,Atlantic salmon_625,1999,126686
+2,Atlantic salmon_625,2000,128959
+2,Atlantic salmon_625,2001,138519
+2,Atlantic salmon_625,2002,145609
+2,Atlantic salmon_625,2003,145609
+2,Atlantic salmon_625,2004,158099
+2,Atlantic salmon_625,2005,129823
+2,Atlantic salmon_625,2006,131973
+2,Atlantic salmon_625,2007,130104
+2,Atlantic salmon_625,2008,128744
+2,Atlantic salmon_625,2009,144654
+2,Atlantic salmon_625,2010,154625
+2,Atlantic salmon_625,2011,158305
+2,Atlantic salmon_625,2012,162543
+2,Atlantic salmon_625,2013,163512
+2,Atlantic salmon_625,2014,165e3
+2,Blue mussel_626,1984,1003
+2,Blue mussel_626,1985,1204
+2,Blue mussel_626,1986,1561
+2,Blue mussel_626,1987,2185
+2,Blue mussel_626,1988,2124
+2,Blue mussel_626,1989,2278
+2,Blue mussel_626,1990,2044
+2,Blue mussel_626,1991,4826
+2,Blue mussel_626,1992,3880
+2,Blue mussel_626,1993,4211
+2,Blue mussel_626,1994,4017
+2,Blue mussel_626,1995,5801
+2,Blue mussel_626,1996,8347
+2,Blue mussel_626,1997,13127
+2,Blue mussel_626,1998,8956
+2,Blue mussel_626,1999,9535
+2,Blue mussel_626,2000,11107
+2,Blue mussel_626,2001,17332
+2,Blue mussel_626,2002,17580
+2,Blue mussel_626,2003,19218
+2,Blue mussel_626,2004,30699
+2,Blue mussel_626,2005,28506
+2,Blue mussel_626,2006,23960
+2,Blue mussel_626,2007,25669
+2,Blue mussel_626,2008,28247
+2,Blue mussel_626,2009,31929
+2,Blue mussel_626,2010,30212
+2,Blue mussel_626,2011,26158
+2,Blue mussel_626,2012,26021
+2,Blue mussel_626,2013,22480
+2,Blue mussel_626,2014,22500
+2,Common edible cockle_627,1989,2
+2,Common edible cockle_627,1990,3
+2,Common edible cockle_627,1991,3
+2,Common edible cockle_627,1992,3
+2,Common edible cockle_627,1993,4
+2,Common edible cockle_627,1994,3
+2,Common edible cockle_627,1995,5
+2,Common edible cockle_627,1996,8
+2,Common edible cockle_627,1997,20
+2,Common edible cockle_627,1998,10
+2,Common edible cockle_627,1999,43
+2,Common edible cockle_627,2000,43
+2,Common edible cockle_627,2001,105
+2,Common edible cockle_627,2002,105
+2,Common edible cockle_627,2003,20
+2,Common edible cockle_627,2004,24
+2,Common edible cockle_627,2005,5
+2,Common edible cockle_627,2006,0
+2,Common edible cockle_627,2007,2
+2,Common edible cockle_627,2008,2057
+2,Common edible cockle_627,2009,2027
+2,Common edible cockle_627,2010,7.3
+2,Common edible cockle_627,2011,5.6
+2,Common edible cockle_627,2012,0
+2,Common edible cockle_627,2013,2504
+2,Common edible cockle_627,2014,5
+2,Cupped oysters nei_628,1988,220
+2,Cupped oysters nei_628,1989,220
+2,Cupped oysters nei_628,1990,220
+2,Cupped oysters nei_628,1991,228
+2,Cupped oysters nei_628,1992,286
+2,Cupped oysters nei_628,1993,290
+2,Cupped oysters nei_628,1994,290
+2,Cupped oysters nei_628,1995,268
+2,Cupped oysters nei_628,1996,584
+2,Cupped oysters nei_628,1997,400
+2,Cupped oysters nei_628,1998,146
+2,Cupped oysters nei_628,1999,910
+2,Cupped oysters nei_628,2000,479
+2,Cupped oysters nei_628,2001,0
+2,Cupped oysters nei_628,2002,0
+2,Cupped oysters nei_628,2003,0
+2,Cupped oysters nei_628,2004,0
+2,Cupped oysters nei_628,2005,0
+2,Cupped oysters nei_628,2006,0
+2,Cupped oysters nei_628,2007,0
+2,Cupped oysters nei_628,2008,0
+2,Cupped oysters nei_628,2009,0
+2,Cupped oysters nei_628,2010,0
+2,Cupped oysters nei_628,2011,0
+2,Cupped oysters nei_628,2012,0
+2,Cupped oysters nei_628,2013,0
+2,Cupped oysters nei_628,2014,0
+2,European flat oyster_629,1987,86
+2,European flat oyster_629,1988,99
+2,European flat oyster_629,1989,60
+2,European flat oyster_629,1990,184
+2,European flat oyster_629,1991,76
+2,European flat oyster_629,1992,266
+2,European flat oyster_629,1993,310
+2,European flat oyster_629,1994,315
+2,European flat oyster_629,1995,189
+2,European flat oyster_629,1996,144
+2,European flat oyster_629,1997,90
+2,European flat oyster_629,1998,51
+2,European flat oyster_629,1999,11
+2,European flat oyster_629,2000,4
+2,European flat oyster_629,2001,145
+2,European flat oyster_629,2002,132
+2,European flat oyster_629,2003,144
+2,European flat oyster_629,2004,149
+2,European flat oyster_629,2005,42
+2,European flat oyster_629,2006,54
+2,European flat oyster_629,2007,87
+2,European flat oyster_629,2008,270
+2,European flat oyster_629,2009,265
+2,European flat oyster_629,2010,116.85
+2,European flat oyster_629,2011,114
+2,European flat oyster_629,2012,111
+2,European flat oyster_629,2013,55
+2,European flat oyster_629,2014,60
+2,European seabass_630,2003,12
+2,European seabass_630,2004,12
+2,European seabass_630,2005,0
+2,European seabass_630,2006,0
+2,European seabass_630,2007,0
+2,European seabass_630,2008,23
+2,European seabass_630,2009,322
+2,European seabass_630,2010,473
+2,European seabass_630,2011,490
+2,European seabass_630,2012,190
+2,European seabass_630,2013,252
+2,European seabass_630,2014,250
+2,Great Atlantic scallop_631,1986,25
+2,Great Atlantic scallop_631,1987,21
+2,Great Atlantic scallop_631,1988,9
+2,Great Atlantic scallop_631,1989,11
+2,Great Atlantic scallop_631,1990,13
+2,Great Atlantic scallop_631,1991,38
+2,Great Atlantic scallop_631,1992,59
+2,Great Atlantic scallop_631,1993,59
+2,Great Atlantic scallop_631,1994,24
+2,Great Atlantic scallop_631,1995,36
+2,Great Atlantic scallop_631,1996,36
+2,Great Atlantic scallop_631,1997,27
+2,Great Atlantic scallop_631,1998,41
+2,Great Atlantic scallop_631,1999,27
+2,Great Atlantic scallop_631,2000,41
+2,Great Atlantic scallop_631,2001,28
+2,Great Atlantic scallop_631,2002,39
+2,Great Atlantic scallop_631,2003,46
+2,Great Atlantic scallop_631,2004,14
+2,Great Atlantic scallop_631,2005,12
+2,Great Atlantic scallop_631,2006,10
+2,Great Atlantic scallop_631,2007,2
+2,Great Atlantic scallop_631,2008,15
+2,Great Atlantic scallop_631,2009,4
+2,Great Atlantic scallop_631,2010,0
+2,Great Atlantic scallop_631,2011,10
+2,Great Atlantic scallop_631,2012,7
+2,Great Atlantic scallop_631,2013,5
+2,Great Atlantic scallop_631,2014,10
+2,Grooved carpet shell_632,1986,0.1
+2,Grooved carpet shell_632,1987,1
+2,Grooved carpet shell_632,1988,0
+2,Grooved carpet shell_632,1989,0
+2,Grooved carpet shell_632,1990,0
+2,Grooved carpet shell_632,1991,0
+2,Grooved carpet shell_632,1992,1
+2,Grooved carpet shell_632,1993,1
+2,Grooved carpet shell_632,1994,0.1
+2,Grooved carpet shell_632,1995,0
+2,Grooved carpet shell_632,1996,0
+2,Grooved carpet shell_632,1997,0
+2,Grooved carpet shell_632,1998,0
+2,Grooved carpet shell_632,1999,0
+2,Grooved carpet shell_632,2000,0
+2,Grooved carpet shell_632,2001,0
+2,Grooved carpet shell_632,2002,0
+2,Grooved carpet shell_632,2003,5
+2,Grooved carpet shell_632,2004,5
+2,Grooved carpet shell_632,2005,0
+2,Grooved carpet shell_632,2006,4
+2,Grooved carpet shell_632,2007,4
+2,Grooved carpet shell_632,2008,0
+2,Grooved carpet shell_632,2009,0
+2,Grooved carpet shell_632,2010,0
+2,Grooved carpet shell_632,2011,0
+2,Grooved carpet shell_632,2012,0
+2,Grooved carpet shell_632,2013,0
+2,Grooved carpet shell_632,2014,0
+2,Japanese carpet shell_633,1989,0.1
+2,Japanese carpet shell_633,1990,46
+2,Japanese carpet shell_633,1991,50
+2,Japanese carpet shell_633,1992,48
+2,Japanese carpet shell_633,1993,51
+2,Japanese carpet shell_633,1994,21
+2,Japanese carpet shell_633,1995,17
+2,Japanese carpet shell_633,1996,21
+2,Japanese carpet shell_633,1997,36
+2,Japanese carpet shell_633,1998,31
+2,Japanese carpet shell_633,1999,29
+2,Japanese carpet shell_633,2000,29
+2,Japanese carpet shell_633,2001,36
+2,Japanese carpet shell_633,2002,36
+2,Japanese carpet shell_633,2003,23
+2,Japanese carpet shell_633,2004,50
+2,Japanese carpet shell_633,2005,5
+2,Japanese carpet shell_633,2006,50
+2,Japanese carpet shell_633,2007,1
+2,Japanese carpet shell_633,2008,0
+2,Japanese carpet shell_633,2009,10
+2,Japanese carpet shell_633,2010,14.5
+2,Japanese carpet shell_633,2011,5.2
+2,Japanese carpet shell_633,2012,5
+2,Japanese carpet shell_633,2013,11
+2,Japanese carpet shell_633,2014,5
+2,Northern quahog(=Hard clam)_634,2003,1
+2,Northern quahog(=Hard clam)_634,2004,1
+2,Northern quahog(=Hard clam)_634,2005,250
+2,Northern quahog(=Hard clam)_634,2006,0
+2,Northern quahog(=Hard clam)_634,2007,4
+2,Northern quahog(=Hard clam)_634,2008,4
+2,Northern quahog(=Hard clam)_634,2009,4
+2,Northern quahog(=Hard clam)_634,2010,12
+2,Northern quahog(=Hard clam)_634,2011,10
+2,Northern quahog(=Hard clam)_634,2012,9
+2,Northern quahog(=Hard clam)_634,2013,1
+2,Northern quahog(=Hard clam)_634,2014,10
+2,Pacific cupped oyster_635,1961,100
+2,Pacific cupped oyster_635,1962,0
+2,Pacific cupped oyster_635,1963,0
+2,Pacific cupped oyster_635,1964,100
+2,Pacific cupped oyster_635,1965,100
+2,Pacific cupped oyster_635,1966,100
+2,Pacific cupped oyster_635,1967,100
+2,Pacific cupped oyster_635,1968,100
+2,Pacific cupped oyster_635,1969,100
+2,Pacific cupped oyster_635,1970,100
+2,Pacific cupped oyster_635,1971,100
+2,Pacific cupped oyster_635,1972,0.1
+2,Pacific cupped oyster_635,1973,0.1
+2,Pacific cupped oyster_635,1974,1
+2,Pacific cupped oyster_635,1975,3
+2,Pacific cupped oyster_635,1976,6
+2,Pacific cupped oyster_635,1977,0.1
+2,Pacific cupped oyster_635,1978,10
+2,Pacific cupped oyster_635,1979,17
+2,Pacific cupped oyster_635,1980,30
+2,Pacific cupped oyster_635,1981,45
+2,Pacific cupped oyster_635,1982,39
+2,Pacific cupped oyster_635,1983,49
+2,Pacific cupped oyster_635,1984,124
+2,Pacific cupped oyster_635,1985,123
+2,Pacific cupped oyster_635,1986,216
+2,Pacific cupped oyster_635,1987,215
+2,Pacific cupped oyster_635,1988,257
+2,Pacific cupped oyster_635,1989,300
+2,Pacific cupped oyster_635,1990,262
+2,Pacific cupped oyster_635,1991,354
+2,Pacific cupped oyster_635,1992,415
+2,Pacific cupped oyster_635,1993,437
+2,Pacific cupped oyster_635,1994,357
+2,Pacific cupped oyster_635,1995,535
+2,Pacific cupped oyster_635,1996,553
+2,Pacific cupped oyster_635,1997,597
+2,Pacific cupped oyster_635,1998,559
+2,Pacific cupped oyster_635,1999,232
+2,Pacific cupped oyster_635,2000,633
+2,Pacific cupped oyster_635,2001,826
+2,Pacific cupped oyster_635,2002,796
+2,Pacific cupped oyster_635,2003,1012
+2,Pacific cupped oyster_635,2004,1504
+2,Pacific cupped oyster_635,2005,922
+2,Pacific cupped oyster_635,2006,1376
+2,Pacific cupped oyster_635,2007,1037
+2,Pacific cupped oyster_635,2008,766
+2,Pacific cupped oyster_635,2009,1366
+2,Pacific cupped oyster_635,2010,1149.6
+2,Pacific cupped oyster_635,2011,754
+2,Pacific cupped oyster_635,2012,1206
+2,Pacific cupped oyster_635,2013,1261
+2,Pacific cupped oyster_635,2014,1250
+2,Queen scallop_636,1986,4
+2,Queen scallop_636,1987,128
+2,Queen scallop_636,1988,172
+2,Queen scallop_636,1989,100
+2,Queen scallop_636,1990,54
+2,Queen scallop_636,1991,61
+2,Queen scallop_636,1992,62
+2,Queen scallop_636,1993,62
+2,Queen scallop_636,1994,38
+2,Queen scallop_636,1995,46
+2,Queen scallop_636,1996,51
+2,Queen scallop_636,1997,46
+2,Queen scallop_636,1998,147
+2,Queen scallop_636,1999,114
+2,Queen scallop_636,2000,58
+2,Queen scallop_636,2001,47
+2,Queen scallop_636,2002,19
+2,Queen scallop_636,2003,19
+2,Queen scallop_636,2004,50
+2,Queen scallop_636,2005,58
+2,Queen scallop_636,2006,60
+2,Queen scallop_636,2007,15
+2,Queen scallop_636,2008,27
+2,Queen scallop_636,2009,5.52
+2,Queen scallop_636,2010,7.3
+2,Queen scallop_636,2011,1
+2,Queen scallop_636,2012,0.4
+2,Queen scallop_636,2013,1
+2,Queen scallop_636,2014,1
+2,Rainbow trout_637,1979,97
+2,Rainbow trout_637,1980,86
+2,Rainbow trout_637,1981,112
+2,Rainbow trout_637,1982,133
+2,Rainbow trout_637,1983,73
+2,Rainbow trout_637,1984,87
+2,Rainbow trout_637,1985,81
+2,Rainbow trout_637,1986,247
+2,Rainbow trout_637,1987,641
+2,Rainbow trout_637,1988,709
+2,Rainbow trout_637,1989,482
+2,Rainbow trout_637,1990,1296
+2,Rainbow trout_637,1991,178
+2,Rainbow trout_638,1992,1
+2,Rainbow trout_637,1992,249
+2,Rainbow trout_638,1993,1
+2,Rainbow trout_637,1993,425
+2,Rainbow trout_638,1994,1
+2,Rainbow trout_637,1994,0
+2,Rainbow trout_638,1995,4
+2,Rainbow trout_637,1995,0
+2,Rainbow trout_638,1996,4
+2,Rainbow trout_637,1996,0
+2,Rainbow trout_638,1997,0.1
+2,Rainbow trout_637,1997,0
+2,Rainbow trout_638,1998,0.1
+2,Rainbow trout_637,1998,502
+2,Rainbow trout_638,1999,0.1
+2,Rainbow trout_637,1999,1075
+2,Rainbow trout_638,2000,0.1
+2,Rainbow trout_637,2000,784
+2,Rainbow trout_638,2001,0.1
+2,Rainbow trout_637,2001,561
+2,Rainbow trout_638,2002,0
+2,Rainbow trout_637,2002,997
+2,Rainbow trout_638,2003,0
+2,Rainbow trout_637,2003,997
+2,Rainbow trout_638,2004,0
+2,Rainbow trout_637,2004,1664
+2,Rainbow trout_638,2005,0
+2,Rainbow trout_637,2005,1242
+2,Rainbow trout_638,2006,0
+2,Rainbow trout_637,2006,2341
+2,Rainbow trout_638,2007,0
+2,Rainbow trout_637,2007,2353
+2,Rainbow trout_638,2008,0
+2,Rainbow trout_637,2008,2628
+2,Rainbow trout_638,2009,0
+2,Rainbow trout_637,2009,2620
+2,Rainbow trout_638,2010,0
+2,Rainbow trout_637,2010,1606
+2,Rainbow trout_638,2011,0
+2,Rainbow trout_637,2011,1156
+2,Rainbow trout_638,2012,0
+2,Rainbow trout_637,2012,2076
+2,Rainbow trout_638,2013,0
+2,Rainbow trout_637,2013,1964
+2,Rainbow trout_638,2014,0
+2,Rainbow trout_637,2014,2e3
+2,Sea trout_639,1999,50
+2,Sea trout_639,2000,42
+2,Sea trout_639,2001,12
+2,Sea trout_639,2002,92
+2,Sea trout_639,2003,92
+2,Sea trout_639,2004,116
+2,Sea trout_639,2005,75
+2,Sea trout_639,2006,207
+2,Sea trout_639,2007,71
+2,Sea trout_639,2008,311
+2,Sea trout_639,2009,0
+2,Sea trout_639,2010,6
+2,Sea trout_639,2011,17.5
+2,Sea trout_639,2012,8.2
+2,Sea trout_639,2013,2
+2,Sea trout_639,2014,2
+2,Turbot_640,2000,107
+2,Turbot_640,2001,120
+2,Turbot_640,2002,45
+2,Turbot_640,2003,128
+2,Turbot_640,2004,233
+2,Turbot_640,2005,58
+2,Turbot_640,2006,62
+2,Turbot_640,2007,62
+2,Turbot_640,2008,20
+2,Turbot_640,2009,1
+2,Turbot_640,2010,0.3
+2,Turbot_640,2011,0
+2,Turbot_640,2012,0
+2,Turbot_640,2013,0
+2,Turbot_640,2014,0
+3,Atlantic cod_623,2001,15
+3,Atlantic cod_623,2002,0
+3,Atlantic cod_623,2003,0
+3,Atlantic cod_623,2004,8
+3,Atlantic cod_623,2005,69
+3,Atlantic cod_623,2006,543
+3,Atlantic cod_623,2007,1111
+3,Atlantic cod_623,2008,1822
+3,Atlantic cod_623,2009,0
+3,Atlantic cod_623,2010,0.7
+3,Atlantic cod_623,2011,0
+3,Atlantic cod_623,2012,0
+3,Atlantic cod_623,2013,0
+3,Atlantic cod_623,2014,0
+3,Atlantic halibut_624,1999,4
+3,Atlantic halibut_624,2000,1
+3,Atlantic halibut_624,2001,80
+3,Atlantic halibut_624,2002,187
+3,Atlantic halibut_624,2003,187
+3,Atlantic halibut_624,2004,187
+3,Atlantic halibut_624,2005,272
+3,Atlantic halibut_624,2006,233
+3,Atlantic halibut_624,2007,147
+3,Atlantic halibut_624,2008,206
+3,Atlantic halibut_624,2009,189
+3,Atlantic halibut_624,2010,139
+3,Atlantic halibut_624,2011,83.1
+3,Atlantic halibut_624,2012,73
+3,Atlantic halibut_624,2013,56
+3,Atlantic halibut_624,2014,70
+3,Atlantic salmon_625,1970,244
+3,Atlantic salmon_625,1971,216
+3,Atlantic salmon_625,1972,213
+3,Atlantic salmon_625,1973,401
+3,Atlantic salmon_625,1974,372
+3,Atlantic salmon_625,1975,393
+3,Atlantic salmon_625,1976,209
+3,Atlantic salmon_625,1977,115
+3,Atlantic salmon_625,1978,378
+3,Atlantic salmon_625,1979,520
+3,Atlantic salmon_625,1980,598
+3,Atlantic salmon_625,1981,1133
+3,Atlantic salmon_625,1982,2152
+3,Atlantic salmon_625,1983,2536
+3,Atlantic salmon_625,1984,3912
+3,Atlantic salmon_625,1985,6921
+3,Atlantic salmon_625,1986,10337
+3,Atlantic salmon_625,1987,12721
+3,Atlantic salmon_625,1988,17951
+3,Atlantic salmon_625,1989,28603
+3,Atlantic salmon_625,1990,32004
+3,Atlantic salmon_625,1991,40657
+3,Atlantic salmon_625,1992,36302
+3,Atlantic salmon_625,1993,48791
+3,Atlantic salmon_625,1994,64266
+3,Atlantic salmon_625,1995,70320
+3,Atlantic salmon_625,1996,83342
+3,Atlantic salmon_625,1997,99422
+3,Atlantic salmon_625,1998,110917
+3,Atlantic salmon_625,1999,126686
+3,Atlantic salmon_625,2000,128959
+3,Atlantic salmon_625,2001,138519
+3,Atlantic salmon_625,2002,145609
+3,Atlantic salmon_625,2003,145609
+3,Atlantic salmon_625,2004,158099
+3,Atlantic salmon_625,2005,129823
+3,Atlantic salmon_625,2006,131973
+3,Atlantic salmon_625,2007,130104
+3,Atlantic salmon_625,2008,128744
+3,Atlantic salmon_625,2009,144654
+3,Atlantic salmon_625,2010,154625
+3,Atlantic salmon_625,2011,158305
+3,Atlantic salmon_625,2012,162543
+3,Atlantic salmon_625,2013,163512
+3,Atlantic salmon_625,2014,165e3
+3,Blue mussel_626,1984,1003
+3,Blue mussel_626,1985,1204
+3,Blue mussel_626,1986,1561
+3,Blue mussel_626,1987,2185
+3,Blue mussel_626,1988,2124
+3,Blue mussel_626,1989,2278
+3,Blue mussel_626,1990,2044
+3,Blue mussel_626,1991,4826
+3,Blue mussel_626,1992,3880
+3,Blue mussel_626,1993,4211
+3,Blue mussel_626,1994,4017
+3,Blue mussel_626,1995,5801
+3,Blue mussel_626,1996,8347
+3,Blue mussel_626,1997,13127
+3,Blue mussel_626,1998,8956
+3,Blue mussel_626,1999,9535
+3,Blue mussel_626,2000,11107
+3,Blue mussel_626,2001,17332
+3,Blue mussel_626,2002,17580
+3,Blue mussel_626,2003,19218
+3,Blue mussel_626,2004,30699
+3,Blue mussel_626,2005,28506
+3,Blue mussel_626,2006,23960
+3,Blue mussel_626,2007,25669
+3,Blue mussel_626,2008,28247
+3,Blue mussel_626,2009,31929
+3,Blue mussel_626,2010,30212
+3,Blue mussel_626,2011,26158
+3,Blue mussel_626,2012,26021
+3,Blue mussel_626,2013,22480
+3,Blue mussel_626,2014,22500
+3,Common edible cockle_627,1989,2
+3,Common edible cockle_627,1990,3
+3,Common edible cockle_627,1991,3
+3,Common edible cockle_627,1992,3
+3,Common edible cockle_627,1993,4
+3,Common edible cockle_627,1994,3
+3,Common edible cockle_627,1995,5
+3,Common edible cockle_627,1996,8
+3,Common edible cockle_627,1997,20
+3,Common edible cockle_627,1998,10
+3,Common edible cockle_627,1999,43
+3,Common edible cockle_627,2000,43
+3,Common edible cockle_627,2001,105
+3,Common edible cockle_627,2002,105
+3,Common edible cockle_627,2003,20
+3,Common edible cockle_627,2004,24
+3,Common edible cockle_627,2005,5
+3,Common edible cockle_627,2006,0
+3,Common edible cockle_627,2007,2
+3,Common edible cockle_627,2008,2057
+3,Common edible cockle_627,2009,2027
+3,Common edible cockle_627,2010,7.3
+3,Common edible cockle_627,2011,5.6
+3,Common edible cockle_627,2012,0
+3,Common edible cockle_627,2013,2504
+3,Common edible cockle_627,2014,5
+3,Cupped oysters nei_628,1988,220
+3,Cupped oysters nei_628,1989,220
+3,Cupped oysters nei_628,1990,220
+3,Cupped oysters nei_628,1991,228
+3,Cupped oysters nei_628,1992,286
+3,Cupped oysters nei_628,1993,290
+3,Cupped oysters nei_628,1994,290
+3,Cupped oysters nei_628,1995,268
+3,Cupped oysters nei_628,1996,584
+3,Cupped oysters nei_628,1997,400
+3,Cupped oysters nei_628,1998,146
+3,Cupped oysters nei_628,1999,910
+3,Cupped oysters nei_628,2000,479
+3,Cupped oysters nei_628,2001,0
+3,Cupped oysters nei_628,2002,0
+3,Cupped oysters nei_628,2003,0
+3,Cupped oysters nei_628,2004,0
+3,Cupped oysters nei_628,2005,0
+3,Cupped oysters nei_628,2006,0
+3,Cupped oysters nei_628,2007,0
+3,Cupped oysters nei_628,2008,0
+3,Cupped oysters nei_628,2009,0
+3,Cupped oysters nei_628,2010,0
+3,Cupped oysters nei_628,2011,0
+3,Cupped oysters nei_628,2012,0
+3,Cupped oysters nei_628,2013,0
+3,Cupped oysters nei_628,2014,0
+3,European flat oyster_629,1987,86
+3,European flat oyster_629,1988,99
+3,European flat oyster_629,1989,60
+3,European flat oyster_629,1990,184
+3,European flat oyster_629,1991,76
+3,European flat oyster_629,1992,266
+3,European flat oyster_629,1993,310
+3,European flat oyster_629,1994,315
+3,European flat oyster_629,1995,189
+3,European flat oyster_629,1996,144
+3,European flat oyster_629,1997,90
+3,European flat oyster_629,1998,51
+3,European flat oyster_629,1999,11
+3,European flat oyster_629,2000,4
+3,European flat oyster_629,2001,145
+3,European flat oyster_629,2002,132
+3,European flat oyster_629,2003,144
+3,European flat oyster_629,2004,149
+3,European flat oyster_629,2005,42
+3,European flat oyster_629,2006,54
+3,European flat oyster_629,2007,87
+3,European flat oyster_629,2008,270
+3,European flat oyster_629,2009,265
+3,European flat oyster_629,2010,116.85
+3,European flat oyster_629,2011,114
+3,European flat oyster_629,2012,111
+3,European flat oyster_629,2013,55
+3,European flat oyster_629,2014,60
+3,European seabass_630,2003,12
+3,European seabass_630,2004,12
+3,European seabass_630,2005,0
+3,European seabass_630,2006,0
+3,European seabass_630,2007,0
+3,European seabass_630,2008,23
+3,European seabass_630,2009,322
+3,European seabass_630,2010,473
+3,European seabass_630,2011,490
+3,European seabass_630,2012,190
+3,European seabass_630,2013,252
+3,European seabass_630,2014,250
+3,Great Atlantic scallop_631,1986,25
+3,Great Atlantic scallop_631,1987,21
+3,Great Atlantic scallop_631,1988,9
+3,Great Atlantic scallop_631,1989,11
+3,Great Atlantic scallop_631,1990,13
+3,Great Atlantic scallop_631,1991,38
+3,Great Atlantic scallop_631,1992,59
+3,Great Atlantic scallop_631,1993,59
+3,Great Atlantic scallop_631,1994,24
+3,Great Atlantic scallop_631,1995,36
+3,Great Atlantic scallop_631,1996,36
+3,Great Atlantic scallop_631,1997,27
+3,Great Atlantic scallop_631,1998,41
+3,Great Atlantic scallop_631,1999,27
+3,Great Atlantic scallop_631,2000,41
+3,Great Atlantic scallop_631,2001,28
+3,Great Atlantic scallop_631,2002,39
+3,Great Atlantic scallop_631,2003,46
+3,Great Atlantic scallop_631,2004,14
+3,Great Atlantic scallop_631,2005,12
+3,Great Atlantic scallop_631,2006,10
+3,Great Atlantic scallop_631,2007,2
+3,Great Atlantic scallop_631,2008,15
+3,Great Atlantic scallop_631,2009,4
+3,Great Atlantic scallop_631,2010,0
+3,Great Atlantic scallop_631,2011,10
+3,Great Atlantic scallop_631,2012,7
+3,Great Atlantic scallop_631,2013,5
+3,Great Atlantic scallop_631,2014,10
+3,Grooved carpet shell_632,1986,0.1
+3,Grooved carpet shell_632,1987,1
+3,Grooved carpet shell_632,1988,0
+3,Grooved carpet shell_632,1989,0
+3,Grooved carpet shell_632,1990,0
+3,Grooved carpet shell_632,1991,0
+3,Grooved carpet shell_632,1992,1
+3,Grooved carpet shell_632,1993,1
+3,Grooved carpet shell_632,1994,0.1
+3,Grooved carpet shell_632,1995,0
+3,Grooved carpet shell_632,1996,0
+3,Grooved carpet shell_632,1997,0
+3,Grooved carpet shell_632,1998,0
+3,Grooved carpet shell_632,1999,0
+3,Grooved carpet shell_632,2000,0
+3,Grooved carpet shell_632,2001,0
+3,Grooved carpet shell_632,2002,0
+3,Grooved carpet shell_632,2003,5
+3,Grooved carpet shell_632,2004,5
+3,Grooved carpet shell_632,2005,0
+3,Grooved carpet shell_632,2006,4
+3,Grooved carpet shell_632,2007,4
+3,Grooved carpet shell_632,2008,0
+3,Grooved carpet shell_632,2009,0
+3,Grooved carpet shell_632,2010,0
+3,Grooved carpet shell_632,2011,0
+3,Grooved carpet shell_632,2012,0
+3,Grooved carpet shell_632,2013,0
+3,Grooved carpet shell_632,2014,0
+3,Japanese carpet shell_633,1989,0.1
+3,Japanese carpet shell_633,1990,46
+3,Japanese carpet shell_633,1991,50
+3,Japanese carpet shell_633,1992,48
+3,Japanese carpet shell_633,1993,51
+3,Japanese carpet shell_633,1994,21
+3,Japanese carpet shell_633,1995,17
+3,Japanese carpet shell_633,1996,21
+3,Japanese carpet shell_633,1997,36
+3,Japanese carpet shell_633,1998,31
+3,Japanese carpet shell_633,1999,29
+3,Japanese carpet shell_633,2000,29
+3,Japanese carpet shell_633,2001,36
+3,Japanese carpet shell_633,2002,36
+3,Japanese carpet shell_633,2003,23
+3,Japanese carpet shell_633,2004,50
+3,Japanese carpet shell_633,2005,5
+3,Japanese carpet shell_633,2006,50
+3,Japanese carpet shell_633,2007,1
+3,Japanese carpet shell_633,2008,0
+3,Japanese carpet shell_633,2009,10
+3,Japanese carpet shell_633,2010,14.5
+3,Japanese carpet shell_633,2011,5.2
+3,Japanese carpet shell_633,2012,5
+3,Japanese carpet shell_633,2013,11
+3,Japanese carpet shell_633,2014,5
+3,Northern quahog(=Hard clam)_634,2003,1
+3,Northern quahog(=Hard clam)_634,2004,1
+3,Northern quahog(=Hard clam)_634,2005,250
+3,Northern quahog(=Hard clam)_634,2006,0
+3,Northern quahog(=Hard clam)_634,2007,4
+3,Northern quahog(=Hard clam)_634,2008,4
+3,Northern quahog(=Hard clam)_634,2009,4
+3,Northern quahog(=Hard clam)_634,2010,12
+3,Northern quahog(=Hard clam)_634,2011,10
+3,Northern quahog(=Hard clam)_634,2012,9
+3,Northern quahog(=Hard clam)_634,2013,1
+3,Northern quahog(=Hard clam)_634,2014,10
+3,Pacific cupped oyster_635,1961,100
+3,Pacific cupped oyster_635,1962,0
+3,Pacific cupped oyster_635,1963,0
+3,Pacific cupped oyster_635,1964,100
+3,Pacific cupped oyster_635,1965,100
+3,Pacific cupped oyster_635,1966,100
+3,Pacific cupped oyster_635,1967,100
+3,Pacific cupped oyster_635,1968,100
+3,Pacific cupped oyster_635,1969,100
+3,Pacific cupped oyster_635,1970,100
+3,Pacific cupped oyster_635,1971,100
+3,Pacific cupped oyster_635,1972,0.1
+3,Pacific cupped oyster_635,1973,0.1
+3,Pacific cupped oyster_635,1974,1
+3,Pacific cupped oyster_635,1975,3
+3,Pacific cupped oyster_635,1976,6
+3,Pacific cupped oyster_635,1977,0.1
+3,Pacific cupped oyster_635,1978,10
+3,Pacific cupped oyster_635,1979,17
+3,Pacific cupped oyster_635,1980,30
+3,Pacific cupped oyster_635,1981,45
+3,Pacific cupped oyster_635,1982,39
+3,Pacific cupped oyster_635,1983,49
+3,Pacific cupped oyster_635,1984,124
+3,Pacific cupped oyster_635,1985,123
+3,Pacific cupped oyster_635,1986,216
+3,Pacific cupped oyster_635,1987,215
+3,Pacific cupped oyster_635,1988,257
+3,Pacific cupped oyster_635,1989,300
+3,Pacific cupped oyster_635,1990,262
+3,Pacific cupped oyster_635,1991,354
+3,Pacific cupped oyster_635,1992,415
+3,Pacific cupped oyster_635,1993,437
+3,Pacific cupped oyster_635,1994,357
+3,Pacific cupped oyster_635,1995,535
+3,Pacific cupped oyster_635,1996,553
+3,Pacific cupped oyster_635,1997,597
+3,Pacific cupped oyster_635,1998,559
+3,Pacific cupped oyster_635,1999,232
+3,Pacific cupped oyster_635,2000,633
+3,Pacific cupped oyster_635,2001,826
+3,Pacific cupped oyster_635,2002,796
+3,Pacific cupped oyster_635,2003,1012
+3,Pacific cupped oyster_635,2004,1504
+3,Pacific cupped oyster_635,2005,922
+3,Pacific cupped oyster_635,2006,1376
+3,Pacific cupped oyster_635,2007,1037
+3,Pacific cupped oyster_635,2008,766
+3,Pacific cupped oyster_635,2009,1366
+3,Pacific cupped oyster_635,2010,1149.6
+3,Pacific cupped oyster_635,2011,754
+3,Pacific cupped oyster_635,2012,1206
+3,Pacific cupped oyster_635,2013,1261
+3,Pacific cupped oyster_635,2014,1250
+3,Queen scallop_636,1986,4
+3,Queen scallop_636,1987,128
+3,Queen scallop_636,1988,172
+3,Queen scallop_636,1989,100
+3,Queen scallop_636,1990,54
+3,Queen scallop_636,1991,61
+3,Queen scallop_636,1992,62
+3,Queen scallop_636,1993,62
+3,Queen scallop_636,1994,38
+3,Queen scallop_636,1995,46
+3,Queen scallop_636,1996,51
+3,Queen scallop_636,1997,46
+3,Queen scallop_636,1998,147
+3,Queen scallop_636,1999,114
+3,Queen scallop_636,2000,58
+3,Queen scallop_636,2001,47
+3,Queen scallop_636,2002,19
+3,Queen scallop_636,2003,19
+3,Queen scallop_636,2004,50
+3,Queen scallop_636,2005,58
+3,Queen scallop_636,2006,60
+3,Queen scallop_636,2007,15
+3,Queen scallop_636,2008,27
+3,Queen scallop_636,2009,5.52
+3,Queen scallop_636,2010,7.3
+3,Queen scallop_636,2011,1
+3,Queen scallop_636,2012,0.4
+3,Queen scallop_636,2013,1
+3,Queen scallop_636,2014,1
+3,Rainbow trout_637,1979,97
+3,Rainbow trout_637,1980,86
+3,Rainbow trout_637,1981,112
+3,Rainbow trout_637,1982,133
+3,Rainbow trout_637,1983,73
+3,Rainbow trout_637,1984,87
+3,Rainbow trout_637,1985,81
+3,Rainbow trout_637,1986,247
+3,Rainbow trout_637,1987,641
+3,Rainbow trout_637,1988,709
+3,Rainbow trout_637,1989,482
+3,Rainbow trout_637,1990,1296
+3,Rainbow trout_637,1991,178
+3,Rainbow trout_638,1992,1
+3,Rainbow trout_637,1992,249
+3,Rainbow trout_638,1993,1
+3,Rainbow trout_637,1993,425
+3,Rainbow trout_638,1994,1
+3,Rainbow trout_637,1994,0
+3,Rainbow trout_638,1995,4
+3,Rainbow trout_637,1995,0
+3,Rainbow trout_638,1996,4
+3,Rainbow trout_637,1996,0
+3,Rainbow trout_638,1997,0.1
+3,Rainbow trout_637,1997,0
+3,Rainbow trout_638,1998,0.1
+3,Rainbow trout_637,1998,502
+3,Rainbow trout_638,1999,0.1
+3,Rainbow trout_637,1999,1075
+3,Rainbow trout_638,2000,0.1
+3,Rainbow trout_637,2000,784
+3,Rainbow trout_638,2001,0.1
+3,Rainbow trout_637,2001,561
+3,Rainbow trout_638,2002,0
+3,Rainbow trout_637,2002,997
+3,Rainbow trout_638,2003,0
+3,Rainbow trout_637,2003,997
+3,Rainbow trout_638,2004,0
+3,Rainbow trout_637,2004,1664
+3,Rainbow trout_638,2005,0
+3,Rainbow trout_637,2005,1242
+3,Rainbow trout_638,2006,0
+3,Rainbow trout_637,2006,2341
+3,Rainbow trout_638,2007,0
+3,Rainbow trout_637,2007,2353
+3,Rainbow trout_638,2008,0
+3,Rainbow trout_637,2008,2628
+3,Rainbow trout_638,2009,0
+3,Rainbow trout_637,2009,2620
+3,Rainbow trout_638,2010,0
+3,Rainbow trout_637,2010,1606
+3,Rainbow trout_638,2011,0
+3,Rainbow trout_637,2011,1156
+3,Rainbow trout_638,2012,0
+3,Rainbow trout_637,2012,2076
+3,Rainbow trout_638,2013,0
+3,Rainbow trout_637,2013,1964
+3,Rainbow trout_638,2014,0
+3,Rainbow trout_637,2014,2e3
+3,Sea trout_639,1999,50
+3,Sea trout_639,2000,42
+3,Sea trout_639,2001,12
+3,Sea trout_639,2002,92
+3,Sea trout_639,2003,92
+3,Sea trout_639,2004,116
+3,Sea trout_639,2005,75
+3,Sea trout_639,2006,207
+3,Sea trout_639,2007,71
+3,Sea trout_639,2008,311
+3,Sea trout_639,2009,0
+3,Sea trout_639,2010,6
+3,Sea trout_639,2011,17.5
+3,Sea trout_639,2012,8.2
+3,Sea trout_639,2013,2
+3,Sea trout_639,2014,2
+3,Turbot_640,2000,107
+3,Turbot_640,2001,120
+3,Turbot_640,2002,45
+3,Turbot_640,2003,128
+3,Turbot_640,2004,233
+3,Turbot_640,2005,58
+3,Turbot_640,2006,62
+3,Turbot_640,2007,62
+3,Turbot_640,2008,20
+3,Turbot_640,2009,1
+3,Turbot_640,2010,0.3
+3,Turbot_640,2011,0
+3,Turbot_640,2012,0
+3,Turbot_640,2013,0
+3,Turbot_640,2014,0
+4,Atlantic cod_623,2001,15
+4,Atlantic cod_623,2002,0
+4,Atlantic cod_623,2003,0
+4,Atlantic cod_623,2004,8
+4,Atlantic cod_623,2005,69
+4,Atlantic cod_623,2006,543
+4,Atlantic cod_623,2007,1111
+4,Atlantic cod_623,2008,1822
+4,Atlantic cod_623,2009,0
+4,Atlantic cod_623,2010,0.7
+4,Atlantic cod_623,2011,0
+4,Atlantic cod_623,2012,0
+4,Atlantic cod_623,2013,0
+4,Atlantic cod_623,2014,0
+4,Atlantic halibut_624,1999,4
+4,Atlantic halibut_624,2000,1
+4,Atlantic halibut_624,2001,80
+4,Atlantic halibut_624,2002,187
+4,Atlantic halibut_624,2003,187
+4,Atlantic halibut_624,2004,187
+4,Atlantic halibut_624,2005,272
+4,Atlantic halibut_624,2006,233
+4,Atlantic halibut_624,2007,147
+4,Atlantic halibut_624,2008,206
+4,Atlantic halibut_624,2009,189
+4,Atlantic halibut_624,2010,139
+4,Atlantic halibut_624,2011,83.1
+4,Atlantic halibut_624,2012,73
+4,Atlantic halibut_624,2013,56
+4,Atlantic halibut_624,2014,70
+4,Atlantic salmon_625,1970,244
+4,Atlantic salmon_625,1971,216
+4,Atlantic salmon_625,1972,213
+4,Atlantic salmon_625,1973,401
+4,Atlantic salmon_625,1974,372
+4,Atlantic salmon_625,1975,393
+4,Atlantic salmon_625,1976,209
+4,Atlantic salmon_625,1977,115
+4,Atlantic salmon_625,1978,378
+4,Atlantic salmon_625,1979,520
+4,Atlantic salmon_625,1980,598
+4,Atlantic salmon_625,1981,1133
+4,Atlantic salmon_625,1982,2152
+4,Atlantic salmon_625,1983,2536
+4,Atlantic salmon_625,1984,3912
+4,Atlantic salmon_625,1985,6921
+4,Atlantic salmon_625,1986,10337
+4,Atlantic salmon_625,1987,12721
+4,Atlantic salmon_625,1988,17951
+4,Atlantic salmon_625,1989,28603
+4,Atlantic salmon_625,1990,32004
+4,Atlantic salmon_625,1991,40657
+4,Atlantic salmon_625,1992,36302
+4,Atlantic salmon_625,1993,48791
+4,Atlantic salmon_625,1994,64266
+4,Atlantic salmon_625,1995,70320
+4,Atlantic salmon_625,1996,83342
+4,Atlantic salmon_625,1997,99422
+4,Atlantic salmon_625,1998,110917
+4,Atlantic salmon_625,1999,126686
+4,Atlantic salmon_625,2000,128959
+4,Atlantic salmon_625,2001,138519
+4,Atlantic salmon_625,2002,145609
+4,Atlantic salmon_625,2003,145609
+4,Atlantic salmon_625,2004,158099
+4,Atlantic salmon_625,2005,129823
+4,Atlantic salmon_625,2006,131973
+4,Atlantic salmon_625,2007,130104
+4,Atlantic salmon_625,2008,128744
+4,Atlantic salmon_625,2009,144654
+4,Atlantic salmon_625,2010,154625
+4,Atlantic salmon_625,2011,158305
+4,Atlantic salmon_625,2012,162543
+4,Atlantic salmon_625,2013,163512
+4,Atlantic salmon_625,2014,165e3
+4,Blue mussel_626,1984,1003
+4,Blue mussel_626,1985,1204
+4,Blue mussel_626,1986,1561
+4,Blue mussel_626,1987,2185
+4,Blue mussel_626,1988,2124
+4,Blue mussel_626,1989,2278
+4,Blue mussel_626,1990,2044
+4,Blue mussel_626,1991,4826
+4,Blue mussel_626,1992,3880
+4,Blue mussel_626,1993,4211
+4,Blue mussel_626,1994,4017
+4,Blue mussel_626,1995,5801
+4,Blue mussel_626,1996,8347
+4,Blue mussel_626,1997,13127
+4,Blue mussel_626,1998,8956
+4,Blue mussel_626,1999,9535
+4,Blue mussel_626,2000,11107
+4,Blue mussel_626,2001,17332
+4,Blue mussel_626,2002,17580
+4,Blue mussel_626,2003,19218
+4,Blue mussel_626,2004,30699
+4,Blue mussel_626,2005,28506
+4,Blue mussel_626,2006,23960
+4,Blue mussel_626,2007,25669
+4,Blue mussel_626,2008,28247
+4,Blue mussel_626,2009,31929
+4,Blue mussel_626,2010,30212
+4,Blue mussel_626,2011,26158
+4,Blue mussel_626,2012,26021
+4,Blue mussel_626,2013,22480
+4,Blue mussel_626,2014,22500
+4,Common edible cockle_627,1989,2
+4,Common edible cockle_627,1990,3
+4,Common edible cockle_627,1991,3
+4,Common edible cockle_627,1992,3
+4,Common edible cockle_627,1993,4
+4,Common edible cockle_627,1994,3
+4,Common edible cockle_627,1995,5
+4,Common edible cockle_627,1996,8
+4,Common edible cockle_627,1997,20
+4,Common edible cockle_627,1998,10
+4,Common edible cockle_627,1999,43
+4,Common edible cockle_627,2000,43
+4,Common edible cockle_627,2001,105
+4,Common edible cockle_627,2002,105
+4,Common edible cockle_627,2003,20
+4,Common edible cockle_627,2004,24
+4,Common edible cockle_627,2005,5
+4,Common edible cockle_627,2006,0
+4,Common edible cockle_627,2007,2
+4,Common edible cockle_627,2008,2057
+4,Common edible cockle_627,2009,2027
+4,Common edible cockle_627,2010,7.3
+4,Common edible cockle_627,2011,5.6
+4,Common edible cockle_627,2012,0
+4,Common edible cockle_627,2013,2504
+4,Common edible cockle_627,2014,5
+4,Cupped oysters nei_628,1988,220
+4,Cupped oysters nei_628,1989,220
+4,Cupped oysters nei_628,1990,220
+4,Cupped oysters nei_628,1991,228
+4,Cupped oysters nei_628,1992,286
+4,Cupped oysters nei_628,1993,290
+4,Cupped oysters nei_628,1994,290
+4,Cupped oysters nei_628,1995,268
+4,Cupped oysters nei_628,1996,584
+4,Cupped oysters nei_628,1997,400
+4,Cupped oysters nei_628,1998,146
+4,Cupped oysters nei_628,1999,910
+4,Cupped oysters nei_628,2000,479
+4,Cupped oysters nei_628,2001,0
+4,Cupped oysters nei_628,2002,0
+4,Cupped oysters nei_628,2003,0
+4,Cupped oysters nei_628,2004,0
+4,Cupped oysters nei_628,2005,0
+4,Cupped oysters nei_628,2006,0
+4,Cupped oysters nei_628,2007,0
+4,Cupped oysters nei_628,2008,0
+4,Cupped oysters nei_628,2009,0
+4,Cupped oysters nei_628,2010,0
+4,Cupped oysters nei_628,2011,0
+4,Cupped oysters nei_628,2012,0
+4,Cupped oysters nei_628,2013,0
+4,Cupped oysters nei_628,2014,0
+4,European flat oyster_629,1987,86
+4,European flat oyster_629,1988,99
+4,European flat oyster_629,1989,60
+4,European flat oyster_629,1990,184
+4,European flat oyster_629,1991,76
+4,European flat oyster_629,1992,266
+4,European flat oyster_629,1993,310
+4,European flat oyster_629,1994,315
+4,European flat oyster_629,1995,189
+4,European flat oyster_629,1996,144
+4,European flat oyster_629,1997,90
+4,European flat oyster_629,1998,51
+4,European flat oyster_629,1999,11
+4,European flat oyster_629,2000,4
+4,European flat oyster_629,2001,145
+4,European flat oyster_629,2002,132
+4,European flat oyster_629,2003,144
+4,European flat oyster_629,2004,149
+4,European flat oyster_629,2005,42
+4,European flat oyster_629,2006,54
+4,European flat oyster_629,2007,87
+4,European flat oyster_629,2008,270
+4,European flat oyster_629,2009,265
+4,European flat oyster_629,2010,116.85
+4,European flat oyster_629,2011,114
+4,European flat oyster_629,2012,111
+4,European flat oyster_629,2013,55
+4,European flat oyster_629,2014,60
+4,European seabass_630,2003,12
+4,European seabass_630,2004,12
+4,European seabass_630,2005,0
+4,European seabass_630,2006,0
+4,European seabass_630,2007,0
+4,European seabass_630,2008,23
+4,European seabass_630,2009,322
+4,European seabass_630,2010,473
+4,European seabass_630,2011,490
+4,European seabass_630,2012,190
+4,European seabass_630,2013,252
+4,European seabass_630,2014,250
+4,Great Atlantic scallop_631,1986,25
+4,Great Atlantic scallop_631,1987,21
+4,Great Atlantic scallop_631,1988,9
+4,Great Atlantic scallop_631,1989,11
+4,Great Atlantic scallop_631,1990,13
+4,Great Atlantic scallop_631,1991,38
+4,Great Atlantic scallop_631,1992,59
+4,Great Atlantic scallop_631,1993,59
+4,Great Atlantic scallop_631,1994,24
+4,Great Atlantic scallop_631,1995,36
+4,Great Atlantic scallop_631,1996,36
+4,Great Atlantic scallop_631,1997,27
+4,Great Atlantic scallop_631,1998,41
+4,Great Atlantic scallop_631,1999,27
+4,Great Atlantic scallop_631,2000,41
+4,Great Atlantic scallop_631,2001,28
+4,Great Atlantic scallop_631,2002,39
+4,Great Atlantic scallop_631,2003,46
+4,Great Atlantic scallop_631,2004,14
+4,Great Atlantic scallop_631,2005,12
+4,Great Atlantic scallop_631,2006,10
+4,Great Atlantic scallop_631,2007,2
+4,Great Atlantic scallop_631,2008,15
+4,Great Atlantic scallop_631,2009,4
+4,Great Atlantic scallop_631,2010,0
+4,Great Atlantic scallop_631,2011,10
+4,Great Atlantic scallop_631,2012,7
+4,Great Atlantic scallop_631,2013,5
+4,Great Atlantic scallop_631,2014,10
+4,Grooved carpet shell_632,1986,0.1
+4,Grooved carpet shell_632,1987,1
+4,Grooved carpet shell_632,1988,0
+4,Grooved carpet shell_632,1989,0
+4,Grooved carpet shell_632,1990,0
+4,Grooved carpet shell_632,1991,0
+4,Grooved carpet shell_632,1992,1
+4,Grooved carpet shell_632,1993,1
+4,Grooved carpet shell_632,1994,0.1
+4,Grooved carpet shell_632,1995,0
+4,Grooved carpet shell_632,1996,0
+4,Grooved carpet shell_632,1997,0
+4,Grooved carpet shell_632,1998,0
+4,Grooved carpet shell_632,1999,0
+4,Grooved carpet shell_632,2000,0
+4,Grooved carpet shell_632,2001,0
+4,Grooved carpet shell_632,2002,0
+4,Grooved carpet shell_632,2003,5
+4,Grooved carpet shell_632,2004,5
+4,Grooved carpet shell_632,2005,0
+4,Grooved carpet shell_632,2006,4
+4,Grooved carpet shell_632,2007,4
+4,Grooved carpet shell_632,2008,0
+4,Grooved carpet shell_632,2009,0
+4,Grooved carpet shell_632,2010,0
+4,Grooved carpet shell_632,2011,0
+4,Grooved carpet shell_632,2012,0
+4,Grooved carpet shell_632,2013,0
+4,Grooved carpet shell_632,2014,0
+4,Japanese carpet shell_633,1989,0.1
+4,Japanese carpet shell_633,1990,46
+4,Japanese carpet shell_633,1991,50
+4,Japanese carpet shell_633,1992,48
+4,Japanese carpet shell_633,1993,51
+4,Japanese carpet shell_633,1994,21
+4,Japanese carpet shell_633,1995,17
+4,Japanese carpet shell_633,1996,21
+4,Japanese carpet shell_633,1997,36
+4,Japanese carpet shell_633,1998,31
+4,Japanese carpet shell_633,1999,29
+4,Japanese carpet shell_633,2000,29
+4,Japanese carpet shell_633,2001,36
+4,Japanese carpet shell_633,2002,36
+4,Japanese carpet shell_633,2003,23
+4,Japanese carpet shell_633,2004,50
+4,Japanese carpet shell_633,2005,5
+4,Japanese carpet shell_633,2006,50
+4,Japanese carpet shell_633,2007,1
+4,Japanese carpet shell_633,2008,0
+4,Japanese carpet shell_633,2009,10
+4,Japanese carpet shell_633,2010,14.5
+4,Japanese carpet shell_633,2011,5.2
+4,Japanese carpet shell_633,2012,5
+4,Japanese carpet shell_633,2013,11
+4,Japanese carpet shell_633,2014,5
+4,Northern quahog(=Hard clam)_634,2003,1
+4,Northern quahog(=Hard clam)_634,2004,1
+4,Northern quahog(=Hard clam)_634,2005,250
+4,Northern quahog(=Hard clam)_634,2006,0
+4,Northern quahog(=Hard clam)_634,2007,4
+4,Northern quahog(=Hard clam)_634,2008,4
+4,Northern quahog(=Hard clam)_634,2009,4
+4,Northern quahog(=Hard clam)_634,2010,12
+4,Northern quahog(=Hard clam)_634,2011,10
+4,Northern quahog(=Hard clam)_634,2012,9
+4,Northern quahog(=Hard clam)_634,2013,1
+4,Northern quahog(=Hard clam)_634,2014,10
+4,Pacific cupped oyster_635,1961,100
+4,Pacific cupped oyster_635,1962,0
+4,Pacific cupped oyster_635,1963,0
+4,Pacific cupped oyster_635,1964,100
+4,Pacific cupped oyster_635,1965,100
+4,Pacific cupped oyster_635,1966,100
+4,Pacific cupped oyster_635,1967,100
+4,Pacific cupped oyster_635,1968,100
+4,Pacific cupped oyster_635,1969,100
+4,Pacific cupped oyster_635,1970,100
+4,Pacific cupped oyster_635,1971,100
+4,Pacific cupped oyster_635,1972,0.1
+4,Pacific cupped oyster_635,1973,0.1
+4,Pacific cupped oyster_635,1974,1
+4,Pacific cupped oyster_635,1975,3
+4,Pacific cupped oyster_635,1976,6
+4,Pacific cupped oyster_635,1977,0.1
+4,Pacific cupped oyster_635,1978,10
+4,Pacific cupped oyster_635,1979,17
+4,Pacific cupped oyster_635,1980,30
+4,Pacific cupped oyster_635,1981,45
+4,Pacific cupped oyster_635,1982,39
+4,Pacific cupped oyster_635,1983,49
+4,Pacific cupped oyster_635,1984,124
+4,Pacific cupped oyster_635,1985,123
+4,Pacific cupped oyster_635,1986,216
+4,Pacific cupped oyster_635,1987,215
+4,Pacific cupped oyster_635,1988,257
+4,Pacific cupped oyster_635,1989,300
+4,Pacific cupped oyster_635,1990,262
+4,Pacific cupped oyster_635,1991,354
+4,Pacific cupped oyster_635,1992,415
+4,Pacific cupped oyster_635,1993,437
+4,Pacific cupped oyster_635,1994,357
+4,Pacific cupped oyster_635,1995,535
+4,Pacific cupped oyster_635,1996,553
+4,Pacific cupped oyster_635,1997,597
+4,Pacific cupped oyster_635,1998,559
+4,Pacific cupped oyster_635,1999,232
+4,Pacific cupped oyster_635,2000,633
+4,Pacific cupped oyster_635,2001,826
+4,Pacific cupped oyster_635,2002,796
+4,Pacific cupped oyster_635,2003,1012
+4,Pacific cupped oyster_635,2004,1504
+4,Pacific cupped oyster_635,2005,922
+4,Pacific cupped oyster_635,2006,1376
+4,Pacific cupped oyster_635,2007,1037
+4,Pacific cupped oyster_635,2008,766
+4,Pacific cupped oyster_635,2009,1366
+4,Pacific cupped oyster_635,2010,1149.6
+4,Pacific cupped oyster_635,2011,754
+4,Pacific cupped oyster_635,2012,1206
+4,Pacific cupped oyster_635,2013,1261
+4,Pacific cupped oyster_635,2014,1250
+4,Queen scallop_636,1986,4
+4,Queen scallop_636,1987,128
+4,Queen scallop_636,1988,172
+4,Queen scallop_636,1989,100
+4,Queen scallop_636,1990,54
+4,Queen scallop_636,1991,61
+4,Queen scallop_636,1992,62
+4,Queen scallop_636,1993,62
+4,Queen scallop_636,1994,38
+4,Queen scallop_636,1995,46
+4,Queen scallop_636,1996,51
+4,Queen scallop_636,1997,46
+4,Queen scallop_636,1998,147
+4,Queen scallop_636,1999,114
+4,Queen scallop_636,2000,58
+4,Queen scallop_636,2001,47
+4,Queen scallop_636,2002,19
+4,Queen scallop_636,2003,19
+4,Queen scallop_636,2004,50
+4,Queen scallop_636,2005,58
+4,Queen scallop_636,2006,60
+4,Queen scallop_636,2007,15
+4,Queen scallop_636,2008,27
+4,Queen scallop_636,2009,5.52
+4,Queen scallop_636,2010,7.3
+4,Queen scallop_636,2011,1
+4,Queen scallop_636,2012,0.4
+4,Queen scallop_636,2013,1
+4,Queen scallop_636,2014,1
+4,Rainbow trout_637,1979,97
+4,Rainbow trout_637,1980,86
+4,Rainbow trout_637,1981,112
+4,Rainbow trout_637,1982,133
+4,Rainbow trout_637,1983,73
+4,Rainbow trout_637,1984,87
+4,Rainbow trout_637,1985,81
+4,Rainbow trout_637,1986,247
+4,Rainbow trout_637,1987,641
+4,Rainbow trout_637,1988,709
+4,Rainbow trout_637,1989,482
+4,Rainbow trout_637,1990,1296
+4,Rainbow trout_637,1991,178
+4,Rainbow trout_638,1992,1
+4,Rainbow trout_637,1992,249
+4,Rainbow trout_638,1993,1
+4,Rainbow trout_637,1993,425
+4,Rainbow trout_638,1994,1
+4,Rainbow trout_637,1994,0
+4,Rainbow trout_638,1995,4
+4,Rainbow trout_637,1995,0
+4,Rainbow trout_638,1996,4
+4,Rainbow trout_637,1996,0
+4,Rainbow trout_638,1997,0.1
+4,Rainbow trout_637,1997,0
+4,Rainbow trout_638,1998,0.1
+4,Rainbow trout_637,1998,502
+4,Rainbow trout_638,1999,0.1
+4,Rainbow trout_637,1999,1075
+4,Rainbow trout_638,2000,0.1
+4,Rainbow trout_637,2000,784
+4,Rainbow trout_638,2001,0.1
+4,Rainbow trout_637,2001,561
+4,Rainbow trout_638,2002,0
+4,Rainbow trout_637,2002,997
+4,Rainbow trout_638,2003,0
+4,Rainbow trout_637,2003,997
+4,Rainbow trout_638,2004,0
+4,Rainbow trout_637,2004,1664
+4,Rainbow trout_638,2005,0
+4,Rainbow trout_637,2005,1242
+4,Rainbow trout_638,2006,0
+4,Rainbow trout_637,2006,2341
+4,Rainbow trout_638,2007,0
+4,Rainbow trout_637,2007,2353
+4,Rainbow trout_638,2008,0
+4,Rainbow trout_637,2008,2628
+4,Rainbow trout_638,2009,0
+4,Rainbow trout_637,2009,2620
+4,Rainbow trout_638,2010,0
+4,Rainbow trout_637,2010,1606
+4,Rainbow trout_638,2011,0
+4,Rainbow trout_637,2011,1156
+4,Rainbow trout_638,2012,0
+4,Rainbow trout_637,2012,2076
+4,Rainbow trout_638,2013,0
+4,Rainbow trout_637,2013,1964
+4,Rainbow trout_638,2014,0
+4,Rainbow trout_637,2014,2e3
+4,Sea trout_639,1999,50
+4,Sea trout_639,2000,42
+4,Sea trout_639,2001,12
+4,Sea trout_639,2002,92
+4,Sea trout_639,2003,92
+4,Sea trout_639,2004,116
+4,Sea trout_639,2005,75
+4,Sea trout_639,2006,207
+4,Sea trout_639,2007,71
+4,Sea trout_639,2008,311
+4,Sea trout_639,2009,0
+4,Sea trout_639,2010,6
+4,Sea trout_639,2011,17.5
+4,Sea trout_639,2012,8.2
+4,Sea trout_639,2013,2
+4,Sea trout_639,2014,2
+4,Turbot_640,2000,107
+4,Turbot_640,2001,120
+4,Turbot_640,2002,45
+4,Turbot_640,2003,128
+4,Turbot_640,2004,233
+4,Turbot_640,2005,58
+4,Turbot_640,2006,62
+4,Turbot_640,2007,62
+4,Turbot_640,2008,20
+4,Turbot_640,2009,1
+4,Turbot_640,2010,0.3
+4,Turbot_640,2011,0
+4,Turbot_640,2012,0
+4,Turbot_640,2013,0
+4,Turbot_640,2014,0
+5,Atlantic cod_623,2001,15
+5,Atlantic cod_623,2002,0
+5,Atlantic cod_623,2003,0
+5,Atlantic cod_623,2004,8
+5,Atlantic cod_623,2005,69
+5,Atlantic cod_623,2006,543
+5,Atlantic cod_623,2007,1111
+5,Atlantic cod_623,2008,1822
+5,Atlantic cod_623,2009,0
+5,Atlantic cod_623,2010,0.7
+5,Atlantic cod_623,2011,0
+5,Atlantic cod_623,2012,0
+5,Atlantic cod_623,2013,0
+5,Atlantic cod_623,2014,0
+5,Atlantic halibut_624,1999,4
+5,Atlantic halibut_624,2000,1
+5,Atlantic halibut_624,2001,80
+5,Atlantic halibut_624,2002,187
+5,Atlantic halibut_624,2003,187
+5,Atlantic halibut_624,2004,187
+5,Atlantic halibut_624,2005,272
+5,Atlantic halibut_624,2006,233
+5,Atlantic halibut_624,2007,147
+5,Atlantic halibut_624,2008,206
+5,Atlantic halibut_624,2009,189
+5,Atlantic halibut_624,2010,139
+5,Atlantic halibut_624,2011,83.1
+5,Atlantic halibut_624,2012,73
+5,Atlantic halibut_624,2013,56
+5,Atlantic halibut_624,2014,70
+5,Atlantic salmon_625,1970,244
+5,Atlantic salmon_625,1971,216
+5,Atlantic salmon_625,1972,213
+5,Atlantic salmon_625,1973,401
+5,Atlantic salmon_625,1974,372
+5,Atlantic salmon_625,1975,393
+5,Atlantic salmon_625,1976,209
+5,Atlantic salmon_625,1977,115
+5,Atlantic salmon_625,1978,378
+5,Atlantic salmon_625,1979,520
+5,Atlantic salmon_625,1980,598
+5,Atlantic salmon_625,1981,1133
+5,Atlantic salmon_625,1982,2152
+5,Atlantic salmon_625,1983,2536
+5,Atlantic salmon_625,1984,3912
+5,Atlantic salmon_625,1985,6921
+5,Atlantic salmon_625,1986,10337
+5,Atlantic salmon_625,1987,12721
+5,Atlantic salmon_625,1988,17951
+5,Atlantic salmon_625,1989,28603
+5,Atlantic salmon_625,1990,32004
+5,Atlantic salmon_625,1991,40657
+5,Atlantic salmon_625,1992,36302
+5,Atlantic salmon_625,1993,48791
+5,Atlantic salmon_625,1994,64266
+5,Atlantic salmon_625,1995,70320
+5,Atlantic salmon_625,1996,83342
+5,Atlantic salmon_625,1997,99422
+5,Atlantic salmon_625,1998,110917
+5,Atlantic salmon_625,1999,126686
+5,Atlantic salmon_625,2000,128959
+5,Atlantic salmon_625,2001,138519
+5,Atlantic salmon_625,2002,145609
+5,Atlantic salmon_625,2003,145609
+5,Atlantic salmon_625,2004,158099
+5,Atlantic salmon_625,2005,129823
+5,Atlantic salmon_625,2006,131973
+5,Atlantic salmon_625,2007,130104
+5,Atlantic salmon_625,2008,128744
+5,Atlantic salmon_625,2009,144654
+5,Atlantic salmon_625,2010,154625
+5,Atlantic salmon_625,2011,158305
+5,Atlantic salmon_625,2012,162543
+5,Atlantic salmon_625,2013,163512
+5,Atlantic salmon_625,2014,165e3
+5,Blue mussel_626,1984,1003
+5,Blue mussel_626,1985,1204
+5,Blue mussel_626,1986,1561
+5,Blue mussel_626,1987,2185
+5,Blue mussel_626,1988,2124
+5,Blue mussel_626,1989,2278
+5,Blue mussel_626,1990,2044
+5,Blue mussel_626,1991,4826
+5,Blue mussel_626,1992,3880
+5,Blue mussel_626,1993,4211
+5,Blue mussel_626,1994,4017
+5,Blue mussel_626,1995,5801
+5,Blue mussel_626,1996,8347
+5,Blue mussel_626,1997,13127
+5,Blue mussel_626,1998,8956
+5,Blue mussel_626,1999,9535
+5,Blue mussel_626,2000,11107
+5,Blue mussel_626,2001,17332
+5,Blue mussel_626,2002,17580
+5,Blue mussel_626,2003,19218
+5,Blue mussel_626,2004,30699
+5,Blue mussel_626,2005,28506
+5,Blue mussel_626,2006,23960
+5,Blue mussel_626,2007,25669
+5,Blue mussel_626,2008,28247
+5,Blue mussel_626,2009,31929
+5,Blue mussel_626,2010,30212
+5,Blue mussel_626,2011,26158
+5,Blue mussel_626,2012,26021
+5,Blue mussel_626,2013,22480
+5,Blue mussel_626,2014,22500
+5,Common edible cockle_627,1989,2
+5,Common edible cockle_627,1990,3
+5,Common edible cockle_627,1991,3
+5,Common edible cockle_627,1992,3
+5,Common edible cockle_627,1993,4
+5,Common edible cockle_627,1994,3
+5,Common edible cockle_627,1995,5
+5,Common edible cockle_627,1996,8
+5,Common edible cockle_627,1997,20
+5,Common edible cockle_627,1998,10
+5,Common edible cockle_627,1999,43
+5,Common edible cockle_627,2000,43
+5,Common edible cockle_627,2001,105
+5,Common edible cockle_627,2002,105
+5,Common edible cockle_627,2003,20
+5,Common edible cockle_627,2004,24
+5,Common edible cockle_627,2005,5
+5,Common edible cockle_627,2006,0
+5,Common edible cockle_627,2007,2
+5,Common edible cockle_627,2008,2057
+5,Common edible cockle_627,2009,2027
+5,Common edible cockle_627,2010,7.3
+5,Common edible cockle_627,2011,5.6
+5,Common edible cockle_627,2012,0
+5,Common edible cockle_627,2013,2504
+5,Common edible cockle_627,2014,5
+5,Cupped oysters nei_628,1988,220
+5,Cupped oysters nei_628,1989,220
+5,Cupped oysters nei_628,1990,220
+5,Cupped oysters nei_628,1991,228
+5,Cupped oysters nei_628,1992,286
+5,Cupped oysters nei_628,1993,290
+5,Cupped oysters nei_628,1994,290
+5,Cupped oysters nei_628,1995,268
+5,Cupped oysters nei_628,1996,584
+5,Cupped oysters nei_628,1997,400
+5,Cupped oysters nei_628,1998,146
+5,Cupped oysters nei_628,1999,910
+5,Cupped oysters nei_628,2000,479
+5,Cupped oysters nei_628,2001,0
+5,Cupped oysters nei_628,2002,0
+5,Cupped oysters nei_628,2003,0
+5,Cupped oysters nei_628,2004,0
+5,Cupped oysters nei_628,2005,0
+5,Cupped oysters nei_628,2006,0
+5,Cupped oysters nei_628,2007,0
+5,Cupped oysters nei_628,2008,0
+5,Cupped oysters nei_628,2009,0
+5,Cupped oysters nei_628,2010,0
+5,Cupped oysters nei_628,2011,0
+5,Cupped oysters nei_628,2012,0
+5,Cupped oysters nei_628,2013,0
+5,Cupped oysters nei_628,2014,0
+5,European flat oyster_629,1987,86
+5,European flat oyster_629,1988,99
+5,European flat oyster_629,1989,60
+5,European flat oyster_629,1990,184
+5,European flat oyster_629,1991,76
+5,European flat oyster_629,1992,266
+5,European flat oyster_629,1993,310
+5,European flat oyster_629,1994,315
+5,European flat oyster_629,1995,189
+5,European flat oyster_629,1996,144
+5,European flat oyster_629,1997,90
+5,European flat oyster_629,1998,51
+5,European flat oyster_629,1999,11
+5,European flat oyster_629,2000,4
+5,European flat oyster_629,2001,145
+5,European flat oyster_629,2002,132
+5,European flat oyster_629,2003,144
+5,European flat oyster_629,2004,149
+5,European flat oyster_629,2005,42
+5,European flat oyster_629,2006,54
+5,European flat oyster_629,2007,87
+5,European flat oyster_629,2008,270
+5,European flat oyster_629,2009,265
+5,European flat oyster_629,2010,116.85
+5,European flat oyster_629,2011,114
+5,European flat oyster_629,2012,111
+5,European flat oyster_629,2013,55
+5,European flat oyster_629,2014,60
+5,European seabass_630,2003,12
+5,European seabass_630,2004,12
+5,European seabass_630,2005,0
+5,European seabass_630,2006,0
+5,European seabass_630,2007,0
+5,European seabass_630,2008,23
+5,European seabass_630,2009,322
+5,European seabass_630,2010,473
+5,European seabass_630,2011,490
+5,European seabass_630,2012,190
+5,European seabass_630,2013,252
+5,European seabass_630,2014,250
+5,Great Atlantic scallop_631,1986,25
+5,Great Atlantic scallop_631,1987,21
+5,Great Atlantic scallop_631,1988,9
+5,Great Atlantic scallop_631,1989,11
+5,Great Atlantic scallop_631,1990,13
+5,Great Atlantic scallop_631,1991,38
+5,Great Atlantic scallop_631,1992,59
+5,Great Atlantic scallop_631,1993,59
+5,Great Atlantic scallop_631,1994,24
+5,Great Atlantic scallop_631,1995,36
+5,Great Atlantic scallop_631,1996,36
+5,Great Atlantic scallop_631,1997,27
+5,Great Atlantic scallop_631,1998,41
+5,Great Atlantic scallop_631,1999,27
+5,Great Atlantic scallop_631,2000,41
+5,Great Atlantic scallop_631,2001,28
+5,Great Atlantic scallop_631,2002,39
+5,Great Atlantic scallop_631,2003,46
+5,Great Atlantic scallop_631,2004,14
+5,Great Atlantic scallop_631,2005,12
+5,Great Atlantic scallop_631,2006,10
+5,Great Atlantic scallop_631,2007,2
+5,Great Atlantic scallop_631,2008,15
+5,Great Atlantic scallop_631,2009,4
+5,Great Atlantic scallop_631,2010,0
+5,Great Atlantic scallop_631,2011,10
+5,Great Atlantic scallop_631,2012,7
+5,Great Atlantic scallop_631,2013,5
+5,Great Atlantic scallop_631,2014,10
+5,Grooved carpet shell_632,1986,0.1
+5,Grooved carpet shell_632,1987,1
+5,Grooved carpet shell_632,1988,0
+5,Grooved carpet shell_632,1989,0
+5,Grooved carpet shell_632,1990,0
+5,Grooved carpet shell_632,1991,0
+5,Grooved carpet shell_632,1992,1
+5,Grooved carpet shell_632,1993,1
+5,Grooved carpet shell_632,1994,0.1
+5,Grooved carpet shell_632,1995,0
+5,Grooved carpet shell_632,1996,0
+5,Grooved carpet shell_632,1997,0
+5,Grooved carpet shell_632,1998,0
+5,Grooved carpet shell_632,1999,0
+5,Grooved carpet shell_632,2000,0
+5,Grooved carpet shell_632,2001,0
+5,Grooved carpet shell_632,2002,0
+5,Grooved carpet shell_632,2003,5
+5,Grooved carpet shell_632,2004,5
+5,Grooved carpet shell_632,2005,0
+5,Grooved carpet shell_632,2006,4
+5,Grooved carpet shell_632,2007,4
+5,Grooved carpet shell_632,2008,0
+5,Grooved carpet shell_632,2009,0
+5,Grooved carpet shell_632,2010,0
+5,Grooved carpet shell_632,2011,0
+5,Grooved carpet shell_632,2012,0
+5,Grooved carpet shell_632,2013,0
+5,Grooved carpet shell_632,2014,0
+5,Japanese carpet shell_633,1989,0.1
+5,Japanese carpet shell_633,1990,46
+5,Japanese carpet shell_633,1991,50
+5,Japanese carpet shell_633,1992,48
+5,Japanese carpet shell_633,1993,51
+5,Japanese carpet shell_633,1994,21
+5,Japanese carpet shell_633,1995,17
+5,Japanese carpet shell_633,1996,21
+5,Japanese carpet shell_633,1997,36
+5,Japanese carpet shell_633,1998,31
+5,Japanese carpet shell_633,1999,29
+5,Japanese carpet shell_633,2000,29
+5,Japanese carpet shell_633,2001,36
+5,Japanese carpet shell_633,2002,36
+5,Japanese carpet shell_633,2003,23
+5,Japanese carpet shell_633,2004,50
+5,Japanese carpet shell_633,2005,5
+5,Japanese carpet shell_633,2006,50
+5,Japanese carpet shell_633,2007,1
+5,Japanese carpet shell_633,2008,0
+5,Japanese carpet shell_633,2009,10
+5,Japanese carpet shell_633,2010,14.5
+5,Japanese carpet shell_633,2011,5.2
+5,Japanese carpet shell_633,2012,5
+5,Japanese carpet shell_633,2013,11
+5,Japanese carpet shell_633,2014,5
+5,Northern quahog(=Hard clam)_634,2003,1
+5,Northern quahog(=Hard clam)_634,2004,1
+5,Northern quahog(=Hard clam)_634,2005,250
+5,Northern quahog(=Hard clam)_634,2006,0
+5,Northern quahog(=Hard clam)_634,2007,4
+5,Northern quahog(=Hard clam)_634,2008,4
+5,Northern quahog(=Hard clam)_634,2009,4
+5,Northern quahog(=Hard clam)_634,2010,12
+5,Northern quahog(=Hard clam)_634,2011,10
+5,Northern quahog(=Hard clam)_634,2012,9
+5,Northern quahog(=Hard clam)_634,2013,1
+5,Northern quahog(=Hard clam)_634,2014,10
+5,Pacific cupped oyster_635,1961,100
+5,Pacific cupped oyster_635,1962,0
+5,Pacific cupped oyster_635,1963,0
+5,Pacific cupped oyster_635,1964,100
+5,Pacific cupped oyster_635,1965,100
+5,Pacific cupped oyster_635,1966,100
+5,Pacific cupped oyster_635,1967,100
+5,Pacific cupped oyster_635,1968,100
+5,Pacific cupped oyster_635,1969,100
+5,Pacific cupped oyster_635,1970,100
+5,Pacific cupped oyster_635,1971,100
+5,Pacific cupped oyster_635,1972,0.1
+5,Pacific cupped oyster_635,1973,0.1
+5,Pacific cupped oyster_635,1974,1
+5,Pacific cupped oyster_635,1975,3
+5,Pacific cupped oyster_635,1976,6
+5,Pacific cupped oyster_635,1977,0.1
+5,Pacific cupped oyster_635,1978,10
+5,Pacific cupped oyster_635,1979,17
+5,Pacific cupped oyster_635,1980,30
+5,Pacific cupped oyster_635,1981,45
+5,Pacific cupped oyster_635,1982,39
+5,Pacific cupped oyster_635,1983,49
+5,Pacific cupped oyster_635,1984,124
+5,Pacific cupped oyster_635,1985,123
+5,Pacific cupped oyster_635,1986,216
+5,Pacific cupped oyster_635,1987,215
+5,Pacific cupped oyster_635,1988,257
+5,Pacific cupped oyster_635,1989,300
+5,Pacific cupped oyster_635,1990,262
+5,Pacific cupped oyster_635,1991,354
+5,Pacific cupped oyster_635,1992,415
+5,Pacific cupped oyster_635,1993,437
+5,Pacific cupped oyster_635,1994,357
+5,Pacific cupped oyster_635,1995,535
+5,Pacific cupped oyster_635,1996,553
+5,Pacific cupped oyster_635,1997,597
+5,Pacific cupped oyster_635,1998,559
+5,Pacific cupped oyster_635,1999,232
+5,Pacific cupped oyster_635,2000,633
+5,Pacific cupped oyster_635,2001,826
+5,Pacific cupped oyster_635,2002,796
+5,Pacific cupped oyster_635,2003,1012
+5,Pacific cupped oyster_635,2004,1504
+5,Pacific cupped oyster_635,2005,922
+5,Pacific cupped oyster_635,2006,1376
+5,Pacific cupped oyster_635,2007,1037
+5,Pacific cupped oyster_635,2008,766
+5,Pacific cupped oyster_635,2009,1366
+5,Pacific cupped oyster_635,2010,1149.6
+5,Pacific cupped oyster_635,2011,754
+5,Pacific cupped oyster_635,2012,1206
+5,Pacific cupped oyster_635,2013,1261
+5,Pacific cupped oyster_635,2014,1250
+5,Queen scallop_636,1986,4
+5,Queen scallop_636,1987,128
+5,Queen scallop_636,1988,172
+5,Queen scallop_636,1989,100
+5,Queen scallop_636,1990,54
+5,Queen scallop_636,1991,61
+5,Queen scallop_636,1992,62
+5,Queen scallop_636,1993,62
+5,Queen scallop_636,1994,38
+5,Queen scallop_636,1995,46
+5,Queen scallop_636,1996,51
+5,Queen scallop_636,1997,46
+5,Queen scallop_636,1998,147
+5,Queen scallop_636,1999,114
+5,Queen scallop_636,2000,58
+5,Queen scallop_636,2001,47
+5,Queen scallop_636,2002,19
+5,Queen scallop_636,2003,19
+5,Queen scallop_636,2004,50
+5,Queen scallop_636,2005,58
+5,Queen scallop_636,2006,60
+5,Queen scallop_636,2007,15
+5,Queen scallop_636,2008,27
+5,Queen scallop_636,2009,5.52
+5,Queen scallop_636,2010,7.3
+5,Queen scallop_636,2011,1
+5,Queen scallop_636,2012,0.4
+5,Queen scallop_636,2013,1
+5,Queen scallop_636,2014,1
+5,Rainbow trout_637,1979,97
+5,Rainbow trout_637,1980,86
+5,Rainbow trout_637,1981,112
+5,Rainbow trout_637,1982,133
+5,Rainbow trout_637,1983,73
+5,Rainbow trout_637,1984,87
+5,Rainbow trout_637,1985,81
+5,Rainbow trout_637,1986,247
+5,Rainbow trout_637,1987,641
+5,Rainbow trout_637,1988,709
+5,Rainbow trout_637,1989,482
+5,Rainbow trout_637,1990,1296
+5,Rainbow trout_637,1991,178
+5,Rainbow trout_638,1992,1
+5,Rainbow trout_637,1992,249
+5,Rainbow trout_638,1993,1
+5,Rainbow trout_637,1993,425
+5,Rainbow trout_638,1994,1
+5,Rainbow trout_637,1994,0
+5,Rainbow trout_638,1995,4
+5,Rainbow trout_637,1995,0
+5,Rainbow trout_638,1996,4
+5,Rainbow trout_637,1996,0
+5,Rainbow trout_638,1997,0.1
+5,Rainbow trout_637,1997,0
+5,Rainbow trout_638,1998,0.1
+5,Rainbow trout_637,1998,502
+5,Rainbow trout_638,1999,0.1
+5,Rainbow trout_637,1999,1075
+5,Rainbow trout_638,2000,0.1
+5,Rainbow trout_637,2000,784
+5,Rainbow trout_638,2001,0.1
+5,Rainbow trout_637,2001,561
+5,Rainbow trout_638,2002,0
+5,Rainbow trout_637,2002,997
+5,Rainbow trout_638,2003,0
+5,Rainbow trout_637,2003,997
+5,Rainbow trout_638,2004,0
+5,Rainbow trout_637,2004,1664
+5,Rainbow trout_638,2005,0
+5,Rainbow trout_637,2005,1242
+5,Rainbow trout_638,2006,0
+5,Rainbow trout_637,2006,2341
+5,Rainbow trout_638,2007,0
+5,Rainbow trout_637,2007,2353
+5,Rainbow trout_638,2008,0
+5,Rainbow trout_637,2008,2628
+5,Rainbow trout_638,2009,0
+5,Rainbow trout_637,2009,2620
+5,Rainbow trout_638,2010,0
+5,Rainbow trout_637,2010,1606
+5,Rainbow trout_638,2011,0
+5,Rainbow trout_637,2011,1156
+5,Rainbow trout_638,2012,0
+5,Rainbow trout_637,2012,2076
+5,Rainbow trout_638,2013,0
+5,Rainbow trout_637,2013,1964
+5,Rainbow trout_638,2014,0
+5,Rainbow trout_637,2014,2e3
+5,Sea trout_639,1999,50
+5,Sea trout_639,2000,42
+5,Sea trout_639,2001,12
+5,Sea trout_639,2002,92
+5,Sea trout_639,2003,92
+5,Sea trout_639,2004,116
+5,Sea trout_639,2005,75
+5,Sea trout_639,2006,207
+5,Sea trout_639,2007,71
+5,Sea trout_639,2008,311
+5,Sea trout_639,2009,0
+5,Sea trout_639,2010,6
+5,Sea trout_639,2011,17.5
+5,Sea trout_639,2012,8.2
+5,Sea trout_639,2013,2
+5,Sea trout_639,2014,2
+5,Turbot_640,2000,107
+5,Turbot_640,2001,120
+5,Turbot_640,2002,45
+5,Turbot_640,2003,128
+5,Turbot_640,2004,233
+5,Turbot_640,2005,58
+5,Turbot_640,2006,62
+5,Turbot_640,2007,62
+5,Turbot_640,2008,20
+5,Turbot_640,2009,1
+5,Turbot_640,2010,0.3
+5,Turbot_640,2011,0
+5,Turbot_640,2012,0
+5,Turbot_640,2013,0
+5,Turbot_640,2014,0
+6,Atlantic cod_623,2001,15
+6,Atlantic cod_623,2002,0
+6,Atlantic cod_623,2003,0
+6,Atlantic cod_623,2004,8
+6,Atlantic cod_623,2005,69
+6,Atlantic cod_623,2006,543
+6,Atlantic cod_623,2007,1111
+6,Atlantic cod_623,2008,1822
+6,Atlantic cod_623,2009,0
+6,Atlantic cod_623,2010,0.7
+6,Atlantic cod_623,2011,0
+6,Atlantic cod_623,2012,0
+6,Atlantic cod_623,2013,0
+6,Atlantic cod_623,2014,0
+6,Atlantic halibut_624,1999,4
+6,Atlantic halibut_624,2000,1
+6,Atlantic halibut_624,2001,80
+6,Atlantic halibut_624,2002,187
+6,Atlantic halibut_624,2003,187
+6,Atlantic halibut_624,2004,187
+6,Atlantic halibut_624,2005,272
+6,Atlantic halibut_624,2006,233
+6,Atlantic halibut_624,2007,147
+6,Atlantic halibut_624,2008,206
+6,Atlantic halibut_624,2009,189
+6,Atlantic halibut_624,2010,139
+6,Atlantic halibut_624,2011,83.1
+6,Atlantic halibut_624,2012,73
+6,Atlantic halibut_624,2013,56
+6,Atlantic halibut_624,2014,70
+6,Atlantic salmon_625,1970,244
+6,Atlantic salmon_625,1971,216
+6,Atlantic salmon_625,1972,213
+6,Atlantic salmon_625,1973,401
+6,Atlantic salmon_625,1974,372
+6,Atlantic salmon_625,1975,393
+6,Atlantic salmon_625,1976,209
+6,Atlantic salmon_625,1977,115
+6,Atlantic salmon_625,1978,378
+6,Atlantic salmon_625,1979,520
+6,Atlantic salmon_625,1980,598
+6,Atlantic salmon_625,1981,1133
+6,Atlantic salmon_625,1982,2152
+6,Atlantic salmon_625,1983,2536
+6,Atlantic salmon_625,1984,3912
+6,Atlantic salmon_625,1985,6921
+6,Atlantic salmon_625,1986,10337
+6,Atlantic salmon_625,1987,12721
+6,Atlantic salmon_625,1988,17951
+6,Atlantic salmon_625,1989,28603
+6,Atlantic salmon_625,1990,32004
+6,Atlantic salmon_625,1991,40657
+6,Atlantic salmon_625,1992,36302
+6,Atlantic salmon_625,1993,48791
+6,Atlantic salmon_625,1994,64266
+6,Atlantic salmon_625,1995,70320
+6,Atlantic salmon_625,1996,83342
+6,Atlantic salmon_625,1997,99422
+6,Atlantic salmon_625,1998,110917
+6,Atlantic salmon_625,1999,126686
+6,Atlantic salmon_625,2000,128959
+6,Atlantic salmon_625,2001,138519
+6,Atlantic salmon_625,2002,145609
+6,Atlantic salmon_625,2003,145609
+6,Atlantic salmon_625,2004,158099
+6,Atlantic salmon_625,2005,129823
+6,Atlantic salmon_625,2006,131973
+6,Atlantic salmon_625,2007,130104
+6,Atlantic salmon_625,2008,128744
+6,Atlantic salmon_625,2009,144654
+6,Atlantic salmon_625,2010,154625
+6,Atlantic salmon_625,2011,158305
+6,Atlantic salmon_625,2012,162543
+6,Atlantic salmon_625,2013,163512
+6,Atlantic salmon_625,2014,165e3
+6,Blue mussel_626,1984,1003
+6,Blue mussel_626,1985,1204
+6,Blue mussel_626,1986,1561
+6,Blue mussel_626,1987,2185
+6,Blue mussel_626,1988,2124
+6,Blue mussel_626,1989,2278
+6,Blue mussel_626,1990,2044
+6,Blue mussel_626,1991,4826
+6,Blue mussel_626,1992,3880
+6,Blue mussel_626,1993,4211
+6,Blue mussel_626,1994,4017
+6,Blue mussel_626,1995,5801
+6,Blue mussel_626,1996,8347
+6,Blue mussel_626,1997,13127
+6,Blue mussel_626,1998,8956
+6,Blue mussel_626,1999,9535
+6,Blue mussel_626,2000,11107
+6,Blue mussel_626,2001,17332
+6,Blue mussel_626,2002,17580
+6,Blue mussel_626,2003,19218
+6,Blue mussel_626,2004,30699
+6,Blue mussel_626,2005,28506
+6,Blue mussel_626,2006,23960
+6,Blue mussel_626,2007,25669
+6,Blue mussel_626,2008,28247
+6,Blue mussel_626,2009,31929
+6,Blue mussel_626,2010,30212
+6,Blue mussel_626,2011,26158
+6,Blue mussel_626,2012,26021
+6,Blue mussel_626,2013,22480
+6,Blue mussel_626,2014,22500
+6,Common edible cockle_627,1989,2
+6,Common edible cockle_627,1990,3
+6,Common edible cockle_627,1991,3
+6,Common edible cockle_627,1992,3
+6,Common edible cockle_627,1993,4
+6,Common edible cockle_627,1994,3
+6,Common edible cockle_627,1995,5
+6,Common edible cockle_627,1996,8
+6,Common edible cockle_627,1997,20
+6,Common edible cockle_627,1998,10
+6,Common edible cockle_627,1999,43
+6,Common edible cockle_627,2000,43
+6,Common edible cockle_627,2001,105
+6,Common edible cockle_627,2002,105
+6,Common edible cockle_627,2003,20
+6,Common edible cockle_627,2004,24
+6,Common edible cockle_627,2005,5
+6,Common edible cockle_627,2006,0
+6,Common edible cockle_627,2007,2
+6,Common edible cockle_627,2008,2057
+6,Common edible cockle_627,2009,2027
+6,Common edible cockle_627,2010,7.3
+6,Common edible cockle_627,2011,5.6
+6,Common edible cockle_627,2012,0
+6,Common edible cockle_627,2013,2504
+6,Common edible cockle_627,2014,5
+6,Cupped oysters nei_628,1988,220
+6,Cupped oysters nei_628,1989,220
+6,Cupped oysters nei_628,1990,220
+6,Cupped oysters nei_628,1991,228
+6,Cupped oysters nei_628,1992,286
+6,Cupped oysters nei_628,1993,290
+6,Cupped oysters nei_628,1994,290
+6,Cupped oysters nei_628,1995,268
+6,Cupped oysters nei_628,1996,584
+6,Cupped oysters nei_628,1997,400
+6,Cupped oysters nei_628,1998,146
+6,Cupped oysters nei_628,1999,910
+6,Cupped oysters nei_628,2000,479
+6,Cupped oysters nei_628,2001,0
+6,Cupped oysters nei_628,2002,0
+6,Cupped oysters nei_628,2003,0
+6,Cupped oysters nei_628,2004,0
+6,Cupped oysters nei_628,2005,0
+6,Cupped oysters nei_628,2006,0
+6,Cupped oysters nei_628,2007,0
+6,Cupped oysters nei_628,2008,0
+6,Cupped oysters nei_628,2009,0
+6,Cupped oysters nei_628,2010,0
+6,Cupped oysters nei_628,2011,0
+6,Cupped oysters nei_628,2012,0
+6,Cupped oysters nei_628,2013,0
+6,Cupped oysters nei_628,2014,0
+6,European flat oyster_629,1987,86
+6,European flat oyster_629,1988,99
+6,European flat oyster_629,1989,60
+6,European flat oyster_629,1990,184
+6,European flat oyster_629,1991,76
+6,European flat oyster_629,1992,266
+6,European flat oyster_629,1993,310
+6,European flat oyster_629,1994,315
+6,European flat oyster_629,1995,189
+6,European flat oyster_629,1996,144
+6,European flat oyster_629,1997,90
+6,European flat oyster_629,1998,51
+6,European flat oyster_629,1999,11
+6,European flat oyster_629,2000,4
+6,European flat oyster_629,2001,145
+6,European flat oyster_629,2002,132
+6,European flat oyster_629,2003,144
+6,European flat oyster_629,2004,149
+6,European flat oyster_629,2005,42
+6,European flat oyster_629,2006,54
+6,European flat oyster_629,2007,87
+6,European flat oyster_629,2008,270
+6,European flat oyster_629,2009,265
+6,European flat oyster_629,2010,116.85
+6,European flat oyster_629,2011,114
+6,European flat oyster_629,2012,111
+6,European flat oyster_629,2013,55
+6,European flat oyster_629,2014,60
+6,European seabass_630,2003,12
+6,European seabass_630,2004,12
+6,European seabass_630,2005,0
+6,European seabass_630,2006,0
+6,European seabass_630,2007,0
+6,European seabass_630,2008,23
+6,European seabass_630,2009,322
+6,European seabass_630,2010,473
+6,European seabass_630,2011,490
+6,European seabass_630,2012,190
+6,European seabass_630,2013,252
+6,European seabass_630,2014,250
+6,Great Atlantic scallop_631,1986,25
+6,Great Atlantic scallop_631,1987,21
+6,Great Atlantic scallop_631,1988,9
+6,Great Atlantic scallop_631,1989,11
+6,Great Atlantic scallop_631,1990,13
+6,Great Atlantic scallop_631,1991,38
+6,Great Atlantic scallop_631,1992,59
+6,Great Atlantic scallop_631,1993,59
+6,Great Atlantic scallop_631,1994,24
+6,Great Atlantic scallop_631,1995,36
+6,Great Atlantic scallop_631,1996,36
+6,Great Atlantic scallop_631,1997,27
+6,Great Atlantic scallop_631,1998,41
+6,Great Atlantic scallop_631,1999,27
+6,Great Atlantic scallop_631,2000,41
+6,Great Atlantic scallop_631,2001,28
+6,Great Atlantic scallop_631,2002,39
+6,Great Atlantic scallop_631,2003,46
+6,Great Atlantic scallop_631,2004,14
+6,Great Atlantic scallop_631,2005,12
+6,Great Atlantic scallop_631,2006,10
+6,Great Atlantic scallop_631,2007,2
+6,Great Atlantic scallop_631,2008,15
+6,Great Atlantic scallop_631,2009,4
+6,Great Atlantic scallop_631,2010,0
+6,Great Atlantic scallop_631,2011,10
+6,Great Atlantic scallop_631,2012,7
+6,Great Atlantic scallop_631,2013,5
+6,Great Atlantic scallop_631,2014,10
+6,Grooved carpet shell_632,1986,0.1
+6,Grooved carpet shell_632,1987,1
+6,Grooved carpet shell_632,1988,0
+6,Grooved carpet shell_632,1989,0
+6,Grooved carpet shell_632,1990,0
+6,Grooved carpet shell_632,1991,0
+6,Grooved carpet shell_632,1992,1
+6,Grooved carpet shell_632,1993,1
+6,Grooved carpet shell_632,1994,0.1
+6,Grooved carpet shell_632,1995,0
+6,Grooved carpet shell_632,1996,0
+6,Grooved carpet shell_632,1997,0
+6,Grooved carpet shell_632,1998,0
+6,Grooved carpet shell_632,1999,0
+6,Grooved carpet shell_632,2000,0
+6,Grooved carpet shell_632,2001,0
+6,Grooved carpet shell_632,2002,0
+6,Grooved carpet shell_632,2003,5
+6,Grooved carpet shell_632,2004,5
+6,Grooved carpet shell_632,2005,0
+6,Grooved carpet shell_632,2006,4
+6,Grooved carpet shell_632,2007,4
+6,Grooved carpet shell_632,2008,0
+6,Grooved carpet shell_632,2009,0
+6,Grooved carpet shell_632,2010,0
+6,Grooved carpet shell_632,2011,0
+6,Grooved carpet shell_632,2012,0
+6,Grooved carpet shell_632,2013,0
+6,Grooved carpet shell_632,2014,0
+6,Japanese carpet shell_633,1989,0.1
+6,Japanese carpet shell_633,1990,46
+6,Japanese carpet shell_633,1991,50
+6,Japanese carpet shell_633,1992,48
+6,Japanese carpet shell_633,1993,51
+6,Japanese carpet shell_633,1994,21
+6,Japanese carpet shell_633,1995,17
+6,Japanese carpet shell_633,1996,21
+6,Japanese carpet shell_633,1997,36
+6,Japanese carpet shell_633,1998,31
+6,Japanese carpet shell_633,1999,29
+6,Japanese carpet shell_633,2000,29
+6,Japanese carpet shell_633,2001,36
+6,Japanese carpet shell_633,2002,36
+6,Japanese carpet shell_633,2003,23
+6,Japanese carpet shell_633,2004,50
+6,Japanese carpet shell_633,2005,5
+6,Japanese carpet shell_633,2006,50
+6,Japanese carpet shell_633,2007,1
+6,Japanese carpet shell_633,2008,0
+6,Japanese carpet shell_633,2009,10
+6,Japanese carpet shell_633,2010,14.5
+6,Japanese carpet shell_633,2011,5.2
+6,Japanese carpet shell_633,2012,5
+6,Japanese carpet shell_633,2013,11
+6,Japanese carpet shell_633,2014,5
+6,Northern quahog(=Hard clam)_634,2003,1
+6,Northern quahog(=Hard clam)_634,2004,1
+6,Northern quahog(=Hard clam)_634,2005,250
+6,Northern quahog(=Hard clam)_634,2006,0
+6,Northern quahog(=Hard clam)_634,2007,4
+6,Northern quahog(=Hard clam)_634,2008,4
+6,Northern quahog(=Hard clam)_634,2009,4
+6,Northern quahog(=Hard clam)_634,2010,12
+6,Northern quahog(=Hard clam)_634,2011,10
+6,Northern quahog(=Hard clam)_634,2012,9
+6,Northern quahog(=Hard clam)_634,2013,1
+6,Northern quahog(=Hard clam)_634,2014,10
+6,Pacific cupped oyster_635,1961,100
+6,Pacific cupped oyster_635,1962,0
+6,Pacific cupped oyster_635,1963,0
+6,Pacific cupped oyster_635,1964,100
+6,Pacific cupped oyster_635,1965,100
+6,Pacific cupped oyster_635,1966,100
+6,Pacific cupped oyster_635,1967,100
+6,Pacific cupped oyster_635,1968,100
+6,Pacific cupped oyster_635,1969,100
+6,Pacific cupped oyster_635,1970,100
+6,Pacific cupped oyster_635,1971,100
+6,Pacific cupped oyster_635,1972,0.1
+6,Pacific cupped oyster_635,1973,0.1
+6,Pacific cupped oyster_635,1974,1
+6,Pacific cupped oyster_635,1975,3
+6,Pacific cupped oyster_635,1976,6
+6,Pacific cupped oyster_635,1977,0.1
+6,Pacific cupped oyster_635,1978,10
+6,Pacific cupped oyster_635,1979,17
+6,Pacific cupped oyster_635,1980,30
+6,Pacific cupped oyster_635,1981,45
+6,Pacific cupped oyster_635,1982,39
+6,Pacific cupped oyster_635,1983,49
+6,Pacific cupped oyster_635,1984,124
+6,Pacific cupped oyster_635,1985,123
+6,Pacific cupped oyster_635,1986,216
+6,Pacific cupped oyster_635,1987,215
+6,Pacific cupped oyster_635,1988,257
+6,Pacific cupped oyster_635,1989,300
+6,Pacific cupped oyster_635,1990,262
+6,Pacific cupped oyster_635,1991,354
+6,Pacific cupped oyster_635,1992,415
+6,Pacific cupped oyster_635,1993,437
+6,Pacific cupped oyster_635,1994,357
+6,Pacific cupped oyster_635,1995,535
+6,Pacific cupped oyster_635,1996,553
+6,Pacific cupped oyster_635,1997,597
+6,Pacific cupped oyster_635,1998,559
+6,Pacific cupped oyster_635,1999,232
+6,Pacific cupped oyster_635,2000,633
+6,Pacific cupped oyster_635,2001,826
+6,Pacific cupped oyster_635,2002,796
+6,Pacific cupped oyster_635,2003,1012
+6,Pacific cupped oyster_635,2004,1504
+6,Pacific cupped oyster_635,2005,922
+6,Pacific cupped oyster_635,2006,1376
+6,Pacific cupped oyster_635,2007,1037
+6,Pacific cupped oyster_635,2008,766
+6,Pacific cupped oyster_635,2009,1366
+6,Pacific cupped oyster_635,2010,1149.6
+6,Pacific cupped oyster_635,2011,754
+6,Pacific cupped oyster_635,2012,1206
+6,Pacific cupped oyster_635,2013,1261
+6,Pacific cupped oyster_635,2014,1250
+6,Queen scallop_636,1986,4
+6,Queen scallop_636,1987,128
+6,Queen scallop_636,1988,172
+6,Queen scallop_636,1989,100
+6,Queen scallop_636,1990,54
+6,Queen scallop_636,1991,61
+6,Queen scallop_636,1992,62
+6,Queen scallop_636,1993,62
+6,Queen scallop_636,1994,38
+6,Queen scallop_636,1995,46
+6,Queen scallop_636,1996,51
+6,Queen scallop_636,1997,46
+6,Queen scallop_636,1998,147
+6,Queen scallop_636,1999,114
+6,Queen scallop_636,2000,58
+6,Queen scallop_636,2001,47
+6,Queen scallop_636,2002,19
+6,Queen scallop_636,2003,19
+6,Queen scallop_636,2004,50
+6,Queen scallop_636,2005,58
+6,Queen scallop_636,2006,60
+6,Queen scallop_636,2007,15
+6,Queen scallop_636,2008,27
+6,Queen scallop_636,2009,5.52
+6,Queen scallop_636,2010,7.3
+6,Queen scallop_636,2011,1
+6,Queen scallop_636,2012,0.4
+6,Queen scallop_636,2013,1
+6,Queen scallop_636,2014,1
+6,Rainbow trout_637,1979,97
+6,Rainbow trout_637,1980,86
+6,Rainbow trout_637,1981,112
+6,Rainbow trout_637,1982,133
+6,Rainbow trout_637,1983,73
+6,Rainbow trout_637,1984,87
+6,Rainbow trout_637,1985,81
+6,Rainbow trout_637,1986,247
+6,Rainbow trout_637,1987,641
+6,Rainbow trout_637,1988,709
+6,Rainbow trout_637,1989,482
+6,Rainbow trout_637,1990,1296
+6,Rainbow trout_637,1991,178
+6,Rainbow trout_638,1992,1
+6,Rainbow trout_637,1992,249
+6,Rainbow trout_638,1993,1
+6,Rainbow trout_637,1993,425
+6,Rainbow trout_638,1994,1
+6,Rainbow trout_637,1994,0
+6,Rainbow trout_638,1995,4
+6,Rainbow trout_637,1995,0
+6,Rainbow trout_638,1996,4
+6,Rainbow trout_637,1996,0
+6,Rainbow trout_638,1997,0.1
+6,Rainbow trout_637,1997,0
+6,Rainbow trout_638,1998,0.1
+6,Rainbow trout_637,1998,502
+6,Rainbow trout_638,1999,0.1
+6,Rainbow trout_637,1999,1075
+6,Rainbow trout_638,2000,0.1
+6,Rainbow trout_637,2000,784
+6,Rainbow trout_638,2001,0.1
+6,Rainbow trout_637,2001,561
+6,Rainbow trout_638,2002,0
+6,Rainbow trout_637,2002,997
+6,Rainbow trout_638,2003,0
+6,Rainbow trout_637,2003,997
+6,Rainbow trout_638,2004,0
+6,Rainbow trout_637,2004,1664
+6,Rainbow trout_638,2005,0
+6,Rainbow trout_637,2005,1242
+6,Rainbow trout_638,2006,0
+6,Rainbow trout_637,2006,2341
+6,Rainbow trout_638,2007,0
+6,Rainbow trout_637,2007,2353
+6,Rainbow trout_638,2008,0
+6,Rainbow trout_637,2008,2628
+6,Rainbow trout_638,2009,0
+6,Rainbow trout_637,2009,2620
+6,Rainbow trout_638,2010,0
+6,Rainbow trout_637,2010,1606
+6,Rainbow trout_638,2011,0
+6,Rainbow trout_637,2011,1156
+6,Rainbow trout_638,2012,0
+6,Rainbow trout_637,2012,2076
+6,Rainbow trout_638,2013,0
+6,Rainbow trout_637,2013,1964
+6,Rainbow trout_638,2014,0
+6,Rainbow trout_637,2014,2e3
+6,Sea trout_639,1999,50
+6,Sea trout_639,2000,42
+6,Sea trout_639,2001,12
+6,Sea trout_639,2002,92
+6,Sea trout_639,2003,92
+6,Sea trout_639,2004,116
+6,Sea trout_639,2005,75
+6,Sea trout_639,2006,207
+6,Sea trout_639,2007,71
+6,Sea trout_639,2008,311
+6,Sea trout_639,2009,0
+6,Sea trout_639,2010,6
+6,Sea trout_639,2011,17.5
+6,Sea trout_639,2012,8.2
+6,Sea trout_639,2013,2
+6,Sea trout_639,2014,2
+6,Turbot_640,2000,107
+6,Turbot_640,2001,120
+6,Turbot_640,2002,45
+6,Turbot_640,2003,128
+6,Turbot_640,2004,233
+6,Turbot_640,2005,58
+6,Turbot_640,2006,62
+6,Turbot_640,2007,62
+6,Turbot_640,2008,20
+6,Turbot_640,2009,1
+6,Turbot_640,2010,0.3
+6,Turbot_640,2011,0
+6,Turbot_640,2012,0
+6,Turbot_640,2013,0
+6,Turbot_640,2014,0
+7,Atlantic cod_623,2001,15
+7,Atlantic cod_623,2002,0
+7,Atlantic cod_623,2003,0
+7,Atlantic cod_623,2004,8
+7,Atlantic cod_623,2005,69
+7,Atlantic cod_623,2006,543
+7,Atlantic cod_623,2007,1111
+7,Atlantic cod_623,2008,1822
+7,Atlantic cod_623,2009,0
+7,Atlantic cod_623,2010,0.7
+7,Atlantic cod_623,2011,0
+7,Atlantic cod_623,2012,0
+7,Atlantic cod_623,2013,0
+7,Atlantic cod_623,2014,0
+7,Atlantic halibut_624,1999,4
+7,Atlantic halibut_624,2000,1
+7,Atlantic halibut_624,2001,80
+7,Atlantic halibut_624,2002,187
+7,Atlantic halibut_624,2003,187
+7,Atlantic halibut_624,2004,187
+7,Atlantic halibut_624,2005,272
+7,Atlantic halibut_624,2006,233
+7,Atlantic halibut_624,2007,147
+7,Atlantic halibut_624,2008,206
+7,Atlantic halibut_624,2009,189
+7,Atlantic halibut_624,2010,139
+7,Atlantic halibut_624,2011,83.1
+7,Atlantic halibut_624,2012,73
+7,Atlantic halibut_624,2013,56
+7,Atlantic halibut_624,2014,70
+7,Atlantic salmon_625,1970,244
+7,Atlantic salmon_625,1971,216
+7,Atlantic salmon_625,1972,213
+7,Atlantic salmon_625,1973,401
+7,Atlantic salmon_625,1974,372
+7,Atlantic salmon_625,1975,393
+7,Atlantic salmon_625,1976,209
+7,Atlantic salmon_625,1977,115
+7,Atlantic salmon_625,1978,378
+7,Atlantic salmon_625,1979,520
+7,Atlantic salmon_625,1980,598
+7,Atlantic salmon_625,1981,1133
+7,Atlantic salmon_625,1982,2152
+7,Atlantic salmon_625,1983,2536
+7,Atlantic salmon_625,1984,3912
+7,Atlantic salmon_625,1985,6921
+7,Atlantic salmon_625,1986,10337
+7,Atlantic salmon_625,1987,12721
+7,Atlantic salmon_625,1988,17951
+7,Atlantic salmon_625,1989,28603
+7,Atlantic salmon_625,1990,32004
+7,Atlantic salmon_625,1991,40657
+7,Atlantic salmon_625,1992,36302
+7,Atlantic salmon_625,1993,48791
+7,Atlantic salmon_625,1994,64266
+7,Atlantic salmon_625,1995,70320
+7,Atlantic salmon_625,1996,83342
+7,Atlantic salmon_625,1997,99422
+7,Atlantic salmon_625,1998,110917
+7,Atlantic salmon_625,1999,126686
+7,Atlantic salmon_625,2000,128959
+7,Atlantic salmon_625,2001,138519
+7,Atlantic salmon_625,2002,145609
+7,Atlantic salmon_625,2003,145609
+7,Atlantic salmon_625,2004,158099
+7,Atlantic salmon_625,2005,129823
+7,Atlantic salmon_625,2006,131973
+7,Atlantic salmon_625,2007,130104
+7,Atlantic salmon_625,2008,128744
+7,Atlantic salmon_625,2009,144654
+7,Atlantic salmon_625,2010,154625
+7,Atlantic salmon_625,2011,158305
+7,Atlantic salmon_625,2012,162543
+7,Atlantic salmon_625,2013,163512
+7,Atlantic salmon_625,2014,165e3
+7,Blue mussel_626,1984,1003
+7,Blue mussel_626,1985,1204
+7,Blue mussel_626,1986,1561
+7,Blue mussel_626,1987,2185
+7,Blue mussel_626,1988,2124
+7,Blue mussel_626,1989,2278
+7,Blue mussel_626,1990,2044
+7,Blue mussel_626,1991,4826
+7,Blue mussel_626,1992,3880
+7,Blue mussel_626,1993,4211
+7,Blue mussel_626,1994,4017
+7,Blue mussel_626,1995,5801
+7,Blue mussel_626,1996,8347
+7,Blue mussel_626,1997,13127
+7,Blue mussel_626,1998,8956
+7,Blue mussel_626,1999,9535
+7,Blue mussel_626,2000,11107
+7,Blue mussel_626,2001,17332
+7,Blue mussel_626,2002,17580
+7,Blue mussel_626,2003,19218
+7,Blue mussel_626,2004,30699
+7,Blue mussel_626,2005,28506
+7,Blue mussel_626,2006,23960
+7,Blue mussel_626,2007,25669
+7,Blue mussel_626,2008,28247
+7,Blue mussel_626,2009,31929
+7,Blue mussel_626,2010,30212
+7,Blue mussel_626,2011,26158
+7,Blue mussel_626,2012,26021
+7,Blue mussel_626,2013,22480
+7,Blue mussel_626,2014,22500
+7,Common edible cockle_627,1989,2
+7,Common edible cockle_627,1990,3
+7,Common edible cockle_627,1991,3
+7,Common edible cockle_627,1992,3
+7,Common edible cockle_627,1993,4
+7,Common edible cockle_627,1994,3
+7,Common edible cockle_627,1995,5
+7,Common edible cockle_627,1996,8
+7,Common edible cockle_627,1997,20
+7,Common edible cockle_627,1998,10
+7,Common edible cockle_627,1999,43
+7,Common edible cockle_627,2000,43
+7,Common edible cockle_627,2001,105
+7,Common edible cockle_627,2002,105
+7,Common edible cockle_627,2003,20
+7,Common edible cockle_627,2004,24
+7,Common edible cockle_627,2005,5
+7,Common edible cockle_627,2006,0
+7,Common edible cockle_627,2007,2
+7,Common edible cockle_627,2008,2057
+7,Common edible cockle_627,2009,2027
+7,Common edible cockle_627,2010,7.3
+7,Common edible cockle_627,2011,5.6
+7,Common edible cockle_627,2012,0
+7,Common edible cockle_627,2013,2504
+7,Common edible cockle_627,2014,5
+7,Cupped oysters nei_628,1988,220
+7,Cupped oysters nei_628,1989,220
+7,Cupped oysters nei_628,1990,220
+7,Cupped oysters nei_628,1991,228
+7,Cupped oysters nei_628,1992,286
+7,Cupped oysters nei_628,1993,290
+7,Cupped oysters nei_628,1994,290
+7,Cupped oysters nei_628,1995,268
+7,Cupped oysters nei_628,1996,584
+7,Cupped oysters nei_628,1997,400
+7,Cupped oysters nei_628,1998,146
+7,Cupped oysters nei_628,1999,910
+7,Cupped oysters nei_628,2000,479
+7,Cupped oysters nei_628,2001,0
+7,Cupped oysters nei_628,2002,0
+7,Cupped oysters nei_628,2003,0
+7,Cupped oysters nei_628,2004,0
+7,Cupped oysters nei_628,2005,0
+7,Cupped oysters nei_628,2006,0
+7,Cupped oysters nei_628,2007,0
+7,Cupped oysters nei_628,2008,0
+7,Cupped oysters nei_628,2009,0
+7,Cupped oysters nei_628,2010,0
+7,Cupped oysters nei_628,2011,0
+7,Cupped oysters nei_628,2012,0
+7,Cupped oysters nei_628,2013,0
+7,Cupped oysters nei_628,2014,0
+7,European flat oyster_629,1987,86
+7,European flat oyster_629,1988,99
+7,European flat oyster_629,1989,60
+7,European flat oyster_629,1990,184
+7,European flat oyster_629,1991,76
+7,European flat oyster_629,1992,266
+7,European flat oyster_629,1993,310
+7,European flat oyster_629,1994,315
+7,European flat oyster_629,1995,189
+7,European flat oyster_629,1996,144
+7,European flat oyster_629,1997,90
+7,European flat oyster_629,1998,51
+7,European flat oyster_629,1999,11
+7,European flat oyster_629,2000,4
+7,European flat oyster_629,2001,145
+7,European flat oyster_629,2002,132
+7,European flat oyster_629,2003,144
+7,European flat oyster_629,2004,149
+7,European flat oyster_629,2005,42
+7,European flat oyster_629,2006,54
+7,European flat oyster_629,2007,87
+7,European flat oyster_629,2008,270
+7,European flat oyster_629,2009,265
+7,European flat oyster_629,2010,116.85
+7,European flat oyster_629,2011,114
+7,European flat oyster_629,2012,111
+7,European flat oyster_629,2013,55
+7,European flat oyster_629,2014,60
+7,European seabass_630,2003,12
+7,European seabass_630,2004,12
+7,European seabass_630,2005,0
+7,European seabass_630,2006,0
+7,European seabass_630,2007,0
+7,European seabass_630,2008,23
+7,European seabass_630,2009,322
+7,European seabass_630,2010,473
+7,European seabass_630,2011,490
+7,European seabass_630,2012,190
+7,European seabass_630,2013,252
+7,European seabass_630,2014,250
+7,Great Atlantic scallop_631,1986,25
+7,Great Atlantic scallop_631,1987,21
+7,Great Atlantic scallop_631,1988,9
+7,Great Atlantic scallop_631,1989,11
+7,Great Atlantic scallop_631,1990,13
+7,Great Atlantic scallop_631,1991,38
+7,Great Atlantic scallop_631,1992,59
+7,Great Atlantic scallop_631,1993,59
+7,Great Atlantic scallop_631,1994,24
+7,Great Atlantic scallop_631,1995,36
+7,Great Atlantic scallop_631,1996,36
+7,Great Atlantic scallop_631,1997,27
+7,Great Atlantic scallop_631,1998,41
+7,Great Atlantic scallop_631,1999,27
+7,Great Atlantic scallop_631,2000,41
+7,Great Atlantic scallop_631,2001,28
+7,Great Atlantic scallop_631,2002,39
+7,Great Atlantic scallop_631,2003,46
+7,Great Atlantic scallop_631,2004,14
+7,Great Atlantic scallop_631,2005,12
+7,Great Atlantic scallop_631,2006,10
+7,Great Atlantic scallop_631,2007,2
+7,Great Atlantic scallop_631,2008,15
+7,Great Atlantic scallop_631,2009,4
+7,Great Atlantic scallop_631,2010,0
+7,Great Atlantic scallop_631,2011,10
+7,Great Atlantic scallop_631,2012,7
+7,Great Atlantic scallop_631,2013,5
+7,Great Atlantic scallop_631,2014,10
+7,Grooved carpet shell_632,1986,0.1
+7,Grooved carpet shell_632,1987,1
+7,Grooved carpet shell_632,1988,0
+7,Grooved carpet shell_632,1989,0
+7,Grooved carpet shell_632,1990,0
+7,Grooved carpet shell_632,1991,0
+7,Grooved carpet shell_632,1992,1
+7,Grooved carpet shell_632,1993,1
+7,Grooved carpet shell_632,1994,0.1
+7,Grooved carpet shell_632,1995,0
+7,Grooved carpet shell_632,1996,0
+7,Grooved carpet shell_632,1997,0
+7,Grooved carpet shell_632,1998,0
+7,Grooved carpet shell_632,1999,0
+7,Grooved carpet shell_632,2000,0
+7,Grooved carpet shell_632,2001,0
+7,Grooved carpet shell_632,2002,0
+7,Grooved carpet shell_632,2003,5
+7,Grooved carpet shell_632,2004,5
+7,Grooved carpet shell_632,2005,0
+7,Grooved carpet shell_632,2006,4
+7,Grooved carpet shell_632,2007,4
+7,Grooved carpet shell_632,2008,0
+7,Grooved carpet shell_632,2009,0
+7,Grooved carpet shell_632,2010,0
+7,Grooved carpet shell_632,2011,0
+7,Grooved carpet shell_632,2012,0
+7,Grooved carpet shell_632,2013,0
+7,Grooved carpet shell_632,2014,0
+7,Japanese carpet shell_633,1989,0.1
+7,Japanese carpet shell_633,1990,46
+7,Japanese carpet shell_633,1991,50
+7,Japanese carpet shell_633,1992,48
+7,Japanese carpet shell_633,1993,51
+7,Japanese carpet shell_633,1994,21
+7,Japanese carpet shell_633,1995,17
+7,Japanese carpet shell_633,1996,21
+7,Japanese carpet shell_633,1997,36
+7,Japanese carpet shell_633,1998,31
+7,Japanese carpet shell_633,1999,29
+7,Japanese carpet shell_633,2000,29
+7,Japanese carpet shell_633,2001,36
+7,Japanese carpet shell_633,2002,36
+7,Japanese carpet shell_633,2003,23
+7,Japanese carpet shell_633,2004,50
+7,Japanese carpet shell_633,2005,5
+7,Japanese carpet shell_633,2006,50
+7,Japanese carpet shell_633,2007,1
+7,Japanese carpet shell_633,2008,0
+7,Japanese carpet shell_633,2009,10
+7,Japanese carpet shell_633,2010,14.5
+7,Japanese carpet shell_633,2011,5.2
+7,Japanese carpet shell_633,2012,5
+7,Japanese carpet shell_633,2013,11
+7,Japanese carpet shell_633,2014,5
+7,Northern quahog(=Hard clam)_634,2003,1
+7,Northern quahog(=Hard clam)_634,2004,1
+7,Northern quahog(=Hard clam)_634,2005,250
+7,Northern quahog(=Hard clam)_634,2006,0
+7,Northern quahog(=Hard clam)_634,2007,4
+7,Northern quahog(=Hard clam)_634,2008,4
+7,Northern quahog(=Hard clam)_634,2009,4
+7,Northern quahog(=Hard clam)_634,2010,12
+7,Northern quahog(=Hard clam)_634,2011,10
+7,Northern quahog(=Hard clam)_634,2012,9
+7,Northern quahog(=Hard clam)_634,2013,1
+7,Northern quahog(=Hard clam)_634,2014,10
+7,Pacific cupped oyster_635,1961,100
+7,Pacific cupped oyster_635,1962,0
+7,Pacific cupped oyster_635,1963,0
+7,Pacific cupped oyster_635,1964,100
+7,Pacific cupped oyster_635,1965,100
+7,Pacific cupped oyster_635,1966,100
+7,Pacific cupped oyster_635,1967,100
+7,Pacific cupped oyster_635,1968,100
+7,Pacific cupped oyster_635,1969,100
+7,Pacific cupped oyster_635,1970,100
+7,Pacific cupped oyster_635,1971,100
+7,Pacific cupped oyster_635,1972,0.1
+7,Pacific cupped oyster_635,1973,0.1
+7,Pacific cupped oyster_635,1974,1
+7,Pacific cupped oyster_635,1975,3
+7,Pacific cupped oyster_635,1976,6
+7,Pacific cupped oyster_635,1977,0.1
+7,Pacific cupped oyster_635,1978,10
+7,Pacific cupped oyster_635,1979,17
+7,Pacific cupped oyster_635,1980,30
+7,Pacific cupped oyster_635,1981,45
+7,Pacific cupped oyster_635,1982,39
+7,Pacific cupped oyster_635,1983,49
+7,Pacific cupped oyster_635,1984,124
+7,Pacific cupped oyster_635,1985,123
+7,Pacific cupped oyster_635,1986,216
+7,Pacific cupped oyster_635,1987,215
+7,Pacific cupped oyster_635,1988,257
+7,Pacific cupped oyster_635,1989,300
+7,Pacific cupped oyster_635,1990,262
+7,Pacific cupped oyster_635,1991,354
+7,Pacific cupped oyster_635,1992,415
+7,Pacific cupped oyster_635,1993,437
+7,Pacific cupped oyster_635,1994,357
+7,Pacific cupped oyster_635,1995,535
+7,Pacific cupped oyster_635,1996,553
+7,Pacific cupped oyster_635,1997,597
+7,Pacific cupped oyster_635,1998,559
+7,Pacific cupped oyster_635,1999,232
+7,Pacific cupped oyster_635,2000,633
+7,Pacific cupped oyster_635,2001,826
+7,Pacific cupped oyster_635,2002,796
+7,Pacific cupped oyster_635,2003,1012
+7,Pacific cupped oyster_635,2004,1504
+7,Pacific cupped oyster_635,2005,922
+7,Pacific cupped oyster_635,2006,1376
+7,Pacific cupped oyster_635,2007,1037
+7,Pacific cupped oyster_635,2008,766
+7,Pacific cupped oyster_635,2009,1366
+7,Pacific cupped oyster_635,2010,1149.6
+7,Pacific cupped oyster_635,2011,754
+7,Pacific cupped oyster_635,2012,1206
+7,Pacific cupped oyster_635,2013,1261
+7,Pacific cupped oyster_635,2014,1250
+7,Queen scallop_636,1986,4
+7,Queen scallop_636,1987,128
+7,Queen scallop_636,1988,172
+7,Queen scallop_636,1989,100
+7,Queen scallop_636,1990,54
+7,Queen scallop_636,1991,61
+7,Queen scallop_636,1992,62
+7,Queen scallop_636,1993,62
+7,Queen scallop_636,1994,38
+7,Queen scallop_636,1995,46
+7,Queen scallop_636,1996,51
+7,Queen scallop_636,1997,46
+7,Queen scallop_636,1998,147
+7,Queen scallop_636,1999,114
+7,Queen scallop_636,2000,58
+7,Queen scallop_636,2001,47
+7,Queen scallop_636,2002,19
+7,Queen scallop_636,2003,19
+7,Queen scallop_636,2004,50
+7,Queen scallop_636,2005,58
+7,Queen scallop_636,2006,60
+7,Queen scallop_636,2007,15
+7,Queen scallop_636,2008,27
+7,Queen scallop_636,2009,5.52
+7,Queen scallop_636,2010,7.3
+7,Queen scallop_636,2011,1
+7,Queen scallop_636,2012,0.4
+7,Queen scallop_636,2013,1
+7,Queen scallop_636,2014,1
+7,Rainbow trout_637,1979,97
+7,Rainbow trout_637,1980,86
+7,Rainbow trout_637,1981,112
+7,Rainbow trout_637,1982,133
+7,Rainbow trout_637,1983,73
+7,Rainbow trout_637,1984,87
+7,Rainbow trout_637,1985,81
+7,Rainbow trout_637,1986,247
+7,Rainbow trout_637,1987,641
+7,Rainbow trout_637,1988,709
+7,Rainbow trout_637,1989,482
+7,Rainbow trout_637,1990,1296
+7,Rainbow trout_637,1991,178
+7,Rainbow trout_638,1992,1
+7,Rainbow trout_637,1992,249
+7,Rainbow trout_638,1993,1
+7,Rainbow trout_637,1993,425
+7,Rainbow trout_638,1994,1
+7,Rainbow trout_637,1994,0
+7,Rainbow trout_638,1995,4
+7,Rainbow trout_637,1995,0
+7,Rainbow trout_638,1996,4
+7,Rainbow trout_637,1996,0
+7,Rainbow trout_638,1997,0.1
+7,Rainbow trout_637,1997,0
+7,Rainbow trout_638,1998,0.1
+7,Rainbow trout_637,1998,502
+7,Rainbow trout_638,1999,0.1
+7,Rainbow trout_637,1999,1075
+7,Rainbow trout_638,2000,0.1
+7,Rainbow trout_637,2000,784
+7,Rainbow trout_638,2001,0.1
+7,Rainbow trout_637,2001,561
+7,Rainbow trout_638,2002,0
+7,Rainbow trout_637,2002,997
+7,Rainbow trout_638,2003,0
+7,Rainbow trout_637,2003,997
+7,Rainbow trout_638,2004,0
+7,Rainbow trout_637,2004,1664
+7,Rainbow trout_638,2005,0
+7,Rainbow trout_637,2005,1242
+7,Rainbow trout_638,2006,0
+7,Rainbow trout_637,2006,2341
+7,Rainbow trout_638,2007,0
+7,Rainbow trout_637,2007,2353
+7,Rainbow trout_638,2008,0
+7,Rainbow trout_637,2008,2628
+7,Rainbow trout_638,2009,0
+7,Rainbow trout_637,2009,2620
+7,Rainbow trout_638,2010,0
+7,Rainbow trout_637,2010,1606
+7,Rainbow trout_638,2011,0
+7,Rainbow trout_637,2011,1156
+7,Rainbow trout_638,2012,0
+7,Rainbow trout_637,2012,2076
+7,Rainbow trout_638,2013,0
+7,Rainbow trout_637,2013,1964
+7,Rainbow trout_638,2014,0
+7,Rainbow trout_637,2014,2e3
+7,Sea trout_639,1999,50
+7,Sea trout_639,2000,42
+7,Sea trout_639,2001,12
+7,Sea trout_639,2002,92
+7,Sea trout_639,2003,92
+7,Sea trout_639,2004,116
+7,Sea trout_639,2005,75
+7,Sea trout_639,2006,207
+7,Sea trout_639,2007,71
+7,Sea trout_639,2008,311
+7,Sea trout_639,2009,0
+7,Sea trout_639,2010,6
+7,Sea trout_639,2011,17.5
+7,Sea trout_639,2012,8.2
+7,Sea trout_639,2013,2
+7,Sea trout_639,2014,2
+7,Turbot_640,2000,107
+7,Turbot_640,2001,120
+7,Turbot_640,2002,45
+7,Turbot_640,2003,128
+7,Turbot_640,2004,233
+7,Turbot_640,2005,58
+7,Turbot_640,2006,62
+7,Turbot_640,2007,62
+7,Turbot_640,2008,20
+7,Turbot_640,2009,1
+7,Turbot_640,2010,0.3
+7,Turbot_640,2011,0
+7,Turbot_640,2012,0
+7,Turbot_640,2013,0
+7,Turbot_640,2014,0
+8,Atlantic cod_623,2001,15
+8,Atlantic cod_623,2002,0
+8,Atlantic cod_623,2003,0
+8,Atlantic cod_623,2004,8
+8,Atlantic cod_623,2005,69
+8,Atlantic cod_623,2006,543
+8,Atlantic cod_623,2007,1111
+8,Atlantic cod_623,2008,1822
+8,Atlantic cod_623,2009,0
+8,Atlantic cod_623,2010,0.7
+8,Atlantic cod_623,2011,0
+8,Atlantic cod_623,2012,0
+8,Atlantic cod_623,2013,0
+8,Atlantic cod_623,2014,0
+8,Atlantic halibut_624,1999,4
+8,Atlantic halibut_624,2000,1
+8,Atlantic halibut_624,2001,80
+8,Atlantic halibut_624,2002,187
+8,Atlantic halibut_624,2003,187
+8,Atlantic halibut_624,2004,187
+8,Atlantic halibut_624,2005,272
+8,Atlantic halibut_624,2006,233
+8,Atlantic halibut_624,2007,147
+8,Atlantic halibut_624,2008,206
+8,Atlantic halibut_624,2009,189
+8,Atlantic halibut_624,2010,139
+8,Atlantic halibut_624,2011,83.1
+8,Atlantic halibut_624,2012,73
+8,Atlantic halibut_624,2013,56
+8,Atlantic halibut_624,2014,70
+8,Atlantic salmon_625,1970,244
+8,Atlantic salmon_625,1971,216
+8,Atlantic salmon_625,1972,213
+8,Atlantic salmon_625,1973,401
+8,Atlantic salmon_625,1974,372
+8,Atlantic salmon_625,1975,393
+8,Atlantic salmon_625,1976,209
+8,Atlantic salmon_625,1977,115
+8,Atlantic salmon_625,1978,378
+8,Atlantic salmon_625,1979,520
+8,Atlantic salmon_625,1980,598
+8,Atlantic salmon_625,1981,1133
+8,Atlantic salmon_625,1982,2152
+8,Atlantic salmon_625,1983,2536
+8,Atlantic salmon_625,1984,3912
+8,Atlantic salmon_625,1985,6921
+8,Atlantic salmon_625,1986,10337
+8,Atlantic salmon_625,1987,12721
+8,Atlantic salmon_625,1988,17951
+8,Atlantic salmon_625,1989,28603
+8,Atlantic salmon_625,1990,32004
+8,Atlantic salmon_625,1991,40657
+8,Atlantic salmon_625,1992,36302
+8,Atlantic salmon_625,1993,48791
+8,Atlantic salmon_625,1994,64266
+8,Atlantic salmon_625,1995,70320
+8,Atlantic salmon_625,1996,83342
+8,Atlantic salmon_625,1997,99422
+8,Atlantic salmon_625,1998,110917
+8,Atlantic salmon_625,1999,126686
+8,Atlantic salmon_625,2000,128959
+8,Atlantic salmon_625,2001,138519
+8,Atlantic salmon_625,2002,145609
+8,Atlantic salmon_625,2003,145609
+8,Atlantic salmon_625,2004,158099
+8,Atlantic salmon_625,2005,129823
+8,Atlantic salmon_625,2006,131973
+8,Atlantic salmon_625,2007,130104
+8,Atlantic salmon_625,2008,128744
+8,Atlantic salmon_625,2009,144654
+8,Atlantic salmon_625,2010,154625
+8,Atlantic salmon_625,2011,158305
+8,Atlantic salmon_625,2012,162543
+8,Atlantic salmon_625,2013,163512
+8,Atlantic salmon_625,2014,165e3
+8,Blue mussel_626,1984,1003
+8,Blue mussel_626,1985,1204
+8,Blue mussel_626,1986,1561
+8,Blue mussel_626,1987,2185
+8,Blue mussel_626,1988,2124
+8,Blue mussel_626,1989,2278
+8,Blue mussel_626,1990,2044
+8,Blue mussel_626,1991,4826
+8,Blue mussel_626,1992,3880
+8,Blue mussel_626,1993,4211
+8,Blue mussel_626,1994,4017
+8,Blue mussel_626,1995,5801
+8,Blue mussel_626,1996,8347
+8,Blue mussel_626,1997,13127
+8,Blue mussel_626,1998,8956
+8,Blue mussel_626,1999,9535
+8,Blue mussel_626,2000,11107
+8,Blue mussel_626,2001,17332
+8,Blue mussel_626,2002,17580
+8,Blue mussel_626,2003,19218
+8,Blue mussel_626,2004,30699
+8,Blue mussel_626,2005,28506
+8,Blue mussel_626,2006,23960
+8,Blue mussel_626,2007,25669
+8,Blue mussel_626,2008,28247
+8,Blue mussel_626,2009,31929
+8,Blue mussel_626,2010,30212
+8,Blue mussel_626,2011,26158
+8,Blue mussel_626,2012,26021
+8,Blue mussel_626,2013,22480
+8,Blue mussel_626,2014,22500
+8,Common edible cockle_627,1989,2
+8,Common edible cockle_627,1990,3
+8,Common edible cockle_627,1991,3
+8,Common edible cockle_627,1992,3
+8,Common edible cockle_627,1993,4
+8,Common edible cockle_627,1994,3
+8,Common edible cockle_627,1995,5
+8,Common edible cockle_627,1996,8
+8,Common edible cockle_627,1997,20
+8,Common edible cockle_627,1998,10
+8,Common edible cockle_627,1999,43
+8,Common edible cockle_627,2000,43
+8,Common edible cockle_627,2001,105
+8,Common edible cockle_627,2002,105
+8,Common edible cockle_627,2003,20
+8,Common edible cockle_627,2004,24
+8,Common edible cockle_627,2005,5
+8,Common edible cockle_627,2006,0
+8,Common edible cockle_627,2007,2
+8,Common edible cockle_627,2008,2057
+8,Common edible cockle_627,2009,2027
+8,Common edible cockle_627,2010,7.3
+8,Common edible cockle_627,2011,5.6
+8,Common edible cockle_627,2012,0
+8,Common edible cockle_627,2013,2504
+8,Common edible cockle_627,2014,5
+8,Cupped oysters nei_628,1988,220
+8,Cupped oysters nei_628,1989,220
+8,Cupped oysters nei_628,1990,220
+8,Cupped oysters nei_628,1991,228
+8,Cupped oysters nei_628,1992,286
+8,Cupped oysters nei_628,1993,290
+8,Cupped oysters nei_628,1994,290
+8,Cupped oysters nei_628,1995,268
+8,Cupped oysters nei_628,1996,584
+8,Cupped oysters nei_628,1997,400
+8,Cupped oysters nei_628,1998,146
+8,Cupped oysters nei_628,1999,910
+8,Cupped oysters nei_628,2000,479
+8,Cupped oysters nei_628,2001,0
+8,Cupped oysters nei_628,2002,0
+8,Cupped oysters nei_628,2003,0
+8,Cupped oysters nei_628,2004,0
+8,Cupped oysters nei_628,2005,0
+8,Cupped oysters nei_628,2006,0
+8,Cupped oysters nei_628,2007,0
+8,Cupped oysters nei_628,2008,0
+8,Cupped oysters nei_628,2009,0
+8,Cupped oysters nei_628,2010,0
+8,Cupped oysters nei_628,2011,0
+8,Cupped oysters nei_628,2012,0
+8,Cupped oysters nei_628,2013,0
+8,Cupped oysters nei_628,2014,0
+8,European flat oyster_629,1987,86
+8,European flat oyster_629,1988,99
+8,European flat oyster_629,1989,60
+8,European flat oyster_629,1990,184
+8,European flat oyster_629,1991,76
+8,European flat oyster_629,1992,266
+8,European flat oyster_629,1993,310
+8,European flat oyster_629,1994,315
+8,European flat oyster_629,1995,189
+8,European flat oyster_629,1996,144
+8,European flat oyster_629,1997,90
+8,European flat oyster_629,1998,51
+8,European flat oyster_629,1999,11
+8,European flat oyster_629,2000,4
+8,European flat oyster_629,2001,145
+8,European flat oyster_629,2002,132
+8,European flat oyster_629,2003,144
+8,European flat oyster_629,2004,149
+8,European flat oyster_629,2005,42
+8,European flat oyster_629,2006,54
+8,European flat oyster_629,2007,87
+8,European flat oyster_629,2008,270
+8,European flat oyster_629,2009,265
+8,European flat oyster_629,2010,116.85
+8,European flat oyster_629,2011,114
+8,European flat oyster_629,2012,111
+8,European flat oyster_629,2013,55
+8,European flat oyster_629,2014,60
+8,European seabass_630,2003,12
+8,European seabass_630,2004,12
+8,European seabass_630,2005,0
+8,European seabass_630,2006,0
+8,European seabass_630,2007,0
+8,European seabass_630,2008,23
+8,European seabass_630,2009,322
+8,European seabass_630,2010,473
+8,European seabass_630,2011,490
+8,European seabass_630,2012,190
+8,European seabass_630,2013,252
+8,European seabass_630,2014,250
+8,Great Atlantic scallop_631,1986,25
+8,Great Atlantic scallop_631,1987,21
+8,Great Atlantic scallop_631,1988,9
+8,Great Atlantic scallop_631,1989,11
+8,Great Atlantic scallop_631,1990,13
+8,Great Atlantic scallop_631,1991,38
+8,Great Atlantic scallop_631,1992,59
+8,Great Atlantic scallop_631,1993,59
+8,Great Atlantic scallop_631,1994,24
+8,Great Atlantic scallop_631,1995,36
+8,Great Atlantic scallop_631,1996,36
+8,Great Atlantic scallop_631,1997,27
+8,Great Atlantic scallop_631,1998,41
+8,Great Atlantic scallop_631,1999,27
+8,Great Atlantic scallop_631,2000,41
+8,Great Atlantic scallop_631,2001,28
+8,Great Atlantic scallop_631,2002,39
+8,Great Atlantic scallop_631,2003,46
+8,Great Atlantic scallop_631,2004,14
+8,Great Atlantic scallop_631,2005,12
+8,Great Atlantic scallop_631,2006,10
+8,Great Atlantic scallop_631,2007,2
+8,Great Atlantic scallop_631,2008,15
+8,Great Atlantic scallop_631,2009,4
+8,Great Atlantic scallop_631,2010,0
+8,Great Atlantic scallop_631,2011,10
+8,Great Atlantic scallop_631,2012,7
+8,Great Atlantic scallop_631,2013,5
+8,Great Atlantic scallop_631,2014,10
+8,Grooved carpet shell_632,1986,0.1
+8,Grooved carpet shell_632,1987,1
+8,Grooved carpet shell_632,1988,0
+8,Grooved carpet shell_632,1989,0
+8,Grooved carpet shell_632,1990,0
+8,Grooved carpet shell_632,1991,0
+8,Grooved carpet shell_632,1992,1
+8,Grooved carpet shell_632,1993,1
+8,Grooved carpet shell_632,1994,0.1
+8,Grooved carpet shell_632,1995,0
+8,Grooved carpet shell_632,1996,0
+8,Grooved carpet shell_632,1997,0
+8,Grooved carpet shell_632,1998,0
+8,Grooved carpet shell_632,1999,0
+8,Grooved carpet shell_632,2000,0
+8,Grooved carpet shell_632,2001,0
+8,Grooved carpet shell_632,2002,0
+8,Grooved carpet shell_632,2003,5
+8,Grooved carpet shell_632,2004,5
+8,Grooved carpet shell_632,2005,0
+8,Grooved carpet shell_632,2006,4
+8,Grooved carpet shell_632,2007,4
+8,Grooved carpet shell_632,2008,0
+8,Grooved carpet shell_632,2009,0
+8,Grooved carpet shell_632,2010,0
+8,Grooved carpet shell_632,2011,0
+8,Grooved carpet shell_632,2012,0
+8,Grooved carpet shell_632,2013,0
+8,Grooved carpet shell_632,2014,0
+8,Japanese carpet shell_633,1989,0.1
+8,Japanese carpet shell_633,1990,46
+8,Japanese carpet shell_633,1991,50
+8,Japanese carpet shell_633,1992,48
+8,Japanese carpet shell_633,1993,51
+8,Japanese carpet shell_633,1994,21
+8,Japanese carpet shell_633,1995,17
+8,Japanese carpet shell_633,1996,21
+8,Japanese carpet shell_633,1997,36
+8,Japanese carpet shell_633,1998,31
+8,Japanese carpet shell_633,1999,29
+8,Japanese carpet shell_633,2000,29
+8,Japanese carpet shell_633,2001,36
+8,Japanese carpet shell_633,2002,36
+8,Japanese carpet shell_633,2003,23
+8,Japanese carpet shell_633,2004,50
+8,Japanese carpet shell_633,2005,5
+8,Japanese carpet shell_633,2006,50
+8,Japanese carpet shell_633,2007,1
+8,Japanese carpet shell_633,2008,0
+8,Japanese carpet shell_633,2009,10
+8,Japanese carpet shell_633,2010,14.5
+8,Japanese carpet shell_633,2011,5.2
+8,Japanese carpet shell_633,2012,5
+8,Japanese carpet shell_633,2013,11
+8,Japanese carpet shell_633,2014,5
+8,Northern quahog(=Hard clam)_634,2003,1
+8,Northern quahog(=Hard clam)_634,2004,1
+8,Northern quahog(=Hard clam)_634,2005,250
+8,Northern quahog(=Hard clam)_634,2006,0
+8,Northern quahog(=Hard clam)_634,2007,4
+8,Northern quahog(=Hard clam)_634,2008,4
+8,Northern quahog(=Hard clam)_634,2009,4
+8,Northern quahog(=Hard clam)_634,2010,12
+8,Northern quahog(=Hard clam)_634,2011,10
+8,Northern quahog(=Hard clam)_634,2012,9
+8,Northern quahog(=Hard clam)_634,2013,1
+8,Northern quahog(=Hard clam)_634,2014,10
+8,Pacific cupped oyster_635,1961,100
+8,Pacific cupped oyster_635,1962,0
+8,Pacific cupped oyster_635,1963,0
+8,Pacific cupped oyster_635,1964,100
+8,Pacific cupped oyster_635,1965,100
+8,Pacific cupped oyster_635,1966,100
+8,Pacific cupped oyster_635,1967,100
+8,Pacific cupped oyster_635,1968,100
+8,Pacific cupped oyster_635,1969,100
+8,Pacific cupped oyster_635,1970,100
+8,Pacific cupped oyster_635,1971,100
+8,Pacific cupped oyster_635,1972,0.1
+8,Pacific cupped oyster_635,1973,0.1
+8,Pacific cupped oyster_635,1974,1
+8,Pacific cupped oyster_635,1975,3
+8,Pacific cupped oyster_635,1976,6
+8,Pacific cupped oyster_635,1977,0.1
+8,Pacific cupped oyster_635,1978,10
+8,Pacific cupped oyster_635,1979,17
+8,Pacific cupped oyster_635,1980,30
+8,Pacific cupped oyster_635,1981,45
+8,Pacific cupped oyster_635,1982,39
+8,Pacific cupped oyster_635,1983,49
+8,Pacific cupped oyster_635,1984,124
+8,Pacific cupped oyster_635,1985,123
+8,Pacific cupped oyster_635,1986,216
+8,Pacific cupped oyster_635,1987,215
+8,Pacific cupped oyster_635,1988,257
+8,Pacific cupped oyster_635,1989,300
+8,Pacific cupped oyster_635,1990,262
+8,Pacific cupped oyster_635,1991,354
+8,Pacific cupped oyster_635,1992,415
+8,Pacific cupped oyster_635,1993,437
+8,Pacific cupped oyster_635,1994,357
+8,Pacific cupped oyster_635,1995,535
+8,Pacific cupped oyster_635,1996,553
+8,Pacific cupped oyster_635,1997,597
+8,Pacific cupped oyster_635,1998,559
+8,Pacific cupped oyster_635,1999,232
+8,Pacific cupped oyster_635,2000,633
+8,Pacific cupped oyster_635,2001,826
+8,Pacific cupped oyster_635,2002,796
+8,Pacific cupped oyster_635,2003,1012
+8,Pacific cupped oyster_635,2004,1504
+8,Pacific cupped oyster_635,2005,922
+8,Pacific cupped oyster_635,2006,1376
+8,Pacific cupped oyster_635,2007,1037
+8,Pacific cupped oyster_635,2008,766
+8,Pacific cupped oyster_635,2009,1366
+8,Pacific cupped oyster_635,2010,1149.6
+8,Pacific cupped oyster_635,2011,754
+8,Pacific cupped oyster_635,2012,1206
+8,Pacific cupped oyster_635,2013,1261
+8,Pacific cupped oyster_635,2014,1250
+8,Queen scallop_636,1986,4
+8,Queen scallop_636,1987,128
+8,Queen scallop_636,1988,172
+8,Queen scallop_636,1989,100
+8,Queen scallop_636,1990,54
+8,Queen scallop_636,1991,61
+8,Queen scallop_636,1992,62
+8,Queen scallop_636,1993,62
+8,Queen scallop_636,1994,38
+8,Queen scallop_636,1995,46
+8,Queen scallop_636,1996,51
+8,Queen scallop_636,1997,46
+8,Queen scallop_636,1998,147
+8,Queen scallop_636,1999,114
+8,Queen scallop_636,2000,58
+8,Queen scallop_636,2001,47
+8,Queen scallop_636,2002,19
+8,Queen scallop_636,2003,19
+8,Queen scallop_636,2004,50
+8,Queen scallop_636,2005,58
+8,Queen scallop_636,2006,60
+8,Queen scallop_636,2007,15
+8,Queen scallop_636,2008,27
+8,Queen scallop_636,2009,5.52
+8,Queen scallop_636,2010,7.3
+8,Queen scallop_636,2011,1
+8,Queen scallop_636,2012,0.4
+8,Queen scallop_636,2013,1
+8,Queen scallop_636,2014,1
+8,Rainbow trout_637,1979,97
+8,Rainbow trout_637,1980,86
+8,Rainbow trout_637,1981,112
+8,Rainbow trout_637,1982,133
+8,Rainbow trout_637,1983,73
+8,Rainbow trout_637,1984,87
+8,Rainbow trout_637,1985,81
+8,Rainbow trout_637,1986,247
+8,Rainbow trout_637,1987,641
+8,Rainbow trout_637,1988,709
+8,Rainbow trout_637,1989,482
+8,Rainbow trout_637,1990,1296
+8,Rainbow trout_637,1991,178
+8,Rainbow trout_638,1992,1
+8,Rainbow trout_637,1992,249
+8,Rainbow trout_638,1993,1
+8,Rainbow trout_637,1993,425
+8,Rainbow trout_638,1994,1
+8,Rainbow trout_637,1994,0
+8,Rainbow trout_638,1995,4
+8,Rainbow trout_637,1995,0
+8,Rainbow trout_638,1996,4
+8,Rainbow trout_637,1996,0
+8,Rainbow trout_638,1997,0.1
+8,Rainbow trout_637,1997,0
+8,Rainbow trout_638,1998,0.1
+8,Rainbow trout_637,1998,502
+8,Rainbow trout_638,1999,0.1
+8,Rainbow trout_637,1999,1075
+8,Rainbow trout_638,2000,0.1
+8,Rainbow trout_637,2000,784
+8,Rainbow trout_638,2001,0.1
+8,Rainbow trout_637,2001,561
+8,Rainbow trout_638,2002,0
+8,Rainbow trout_637,2002,997
+8,Rainbow trout_638,2003,0
+8,Rainbow trout_637,2003,997
+8,Rainbow trout_638,2004,0
+8,Rainbow trout_637,2004,1664
+8,Rainbow trout_638,2005,0
+8,Rainbow trout_637,2005,1242
+8,Rainbow trout_638,2006,0
+8,Rainbow trout_637,2006,2341
+8,Rainbow trout_638,2007,0
+8,Rainbow trout_637,2007,2353
+8,Rainbow trout_638,2008,0
+8,Rainbow trout_637,2008,2628
+8,Rainbow trout_638,2009,0
+8,Rainbow trout_637,2009,2620
+8,Rainbow trout_638,2010,0
+8,Rainbow trout_637,2010,1606
+8,Rainbow trout_638,2011,0
+8,Rainbow trout_637,2011,1156
+8,Rainbow trout_638,2012,0
+8,Rainbow trout_637,2012,2076
+8,Rainbow trout_638,2013,0
+8,Rainbow trout_637,2013,1964
+8,Rainbow trout_638,2014,0
+8,Rainbow trout_637,2014,2e3
+8,Sea trout_639,1999,50
+8,Sea trout_639,2000,42
+8,Sea trout_639,2001,12
+8,Sea trout_639,2002,92
+8,Sea trout_639,2003,92
+8,Sea trout_639,2004,116
+8,Sea trout_639,2005,75
+8,Sea trout_639,2006,207
+8,Sea trout_639,2007,71
+8,Sea trout_639,2008,311
+8,Sea trout_639,2009,0
+8,Sea trout_639,2010,6
+8,Sea trout_639,2011,17.5
+8,Sea trout_639,2012,8.2
+8,Sea trout_639,2013,2
+8,Sea trout_639,2014,2
+8,Turbot_640,2000,107
+8,Turbot_640,2001,120
+8,Turbot_640,2002,45
+8,Turbot_640,2003,128
+8,Turbot_640,2004,233
+8,Turbot_640,2005,58
+8,Turbot_640,2006,62
+8,Turbot_640,2007,62
+8,Turbot_640,2008,20
+8,Turbot_640,2009,1
+8,Turbot_640,2010,0.3
+8,Turbot_640,2011,0
+8,Turbot_640,2012,0
+8,Turbot_640,2013,0
+8,Turbot_640,2014,0
+9,Atlantic cod_623,2001,15
+9,Atlantic cod_623,2002,0
+9,Atlantic cod_623,2003,0
+9,Atlantic cod_623,2004,8
+9,Atlantic cod_623,2005,69
+9,Atlantic cod_623,2006,543
+9,Atlantic cod_623,2007,1111
+9,Atlantic cod_623,2008,1822
+9,Atlantic cod_623,2009,0
+9,Atlantic cod_623,2010,0.7
+9,Atlantic cod_623,2011,0
+9,Atlantic cod_623,2012,0
+9,Atlantic cod_623,2013,0
+9,Atlantic cod_623,2014,0
+9,Atlantic halibut_624,1999,4
+9,Atlantic halibut_624,2000,1
+9,Atlantic halibut_624,2001,80
+9,Atlantic halibut_624,2002,187
+9,Atlantic halibut_624,2003,187
+9,Atlantic halibut_624,2004,187
+9,Atlantic halibut_624,2005,272
+9,Atlantic halibut_624,2006,233
+9,Atlantic halibut_624,2007,147
+9,Atlantic halibut_624,2008,206
+9,Atlantic halibut_624,2009,189
+9,Atlantic halibut_624,2010,139
+9,Atlantic halibut_624,2011,83.1
+9,Atlantic halibut_624,2012,73
+9,Atlantic halibut_624,2013,56
+9,Atlantic halibut_624,2014,70
+9,Atlantic salmon_625,1970,244
+9,Atlantic salmon_625,1971,216
+9,Atlantic salmon_625,1972,213
+9,Atlantic salmon_625,1973,401
+9,Atlantic salmon_625,1974,372
+9,Atlantic salmon_625,1975,393
+9,Atlantic salmon_625,1976,209
+9,Atlantic salmon_625,1977,115
+9,Atlantic salmon_625,1978,378
+9,Atlantic salmon_625,1979,520
+9,Atlantic salmon_625,1980,598
+9,Atlantic salmon_625,1981,1133
+9,Atlantic salmon_625,1982,2152
+9,Atlantic salmon_625,1983,2536
+9,Atlantic salmon_625,1984,3912
+9,Atlantic salmon_625,1985,6921
+9,Atlantic salmon_625,1986,10337
+9,Atlantic salmon_625,1987,12721
+9,Atlantic salmon_625,1988,17951
+9,Atlantic salmon_625,1989,28603
+9,Atlantic salmon_625,1990,32004
+9,Atlantic salmon_625,1991,40657
+9,Atlantic salmon_625,1992,36302
+9,Atlantic salmon_625,1993,48791
+9,Atlantic salmon_625,1994,64266
+9,Atlantic salmon_625,1995,70320
+9,Atlantic salmon_625,1996,83342
+9,Atlantic salmon_625,1997,99422
+9,Atlantic salmon_625,1998,110917
+9,Atlantic salmon_625,1999,126686
+9,Atlantic salmon_625,2000,128959
+9,Atlantic salmon_625,2001,138519
+9,Atlantic salmon_625,2002,145609
+9,Atlantic salmon_625,2003,145609
+9,Atlantic salmon_625,2004,158099
+9,Atlantic salmon_625,2005,129823
+9,Atlantic salmon_625,2006,131973
+9,Atlantic salmon_625,2007,130104
+9,Atlantic salmon_625,2008,128744
+9,Atlantic salmon_625,2009,144654
+9,Atlantic salmon_625,2010,154625
+9,Atlantic salmon_625,2011,158305
+9,Atlantic salmon_625,2012,162543
+9,Atlantic salmon_625,2013,163512
+9,Atlantic salmon_625,2014,165e3
+9,Blue mussel_626,1984,1003
+9,Blue mussel_626,1985,1204
+9,Blue mussel_626,1986,1561
+9,Blue mussel_626,1987,2185
+9,Blue mussel_626,1988,2124
+9,Blue mussel_626,1989,2278
+9,Blue mussel_626,1990,2044
+9,Blue mussel_626,1991,4826
+9,Blue mussel_626,1992,3880
+9,Blue mussel_626,1993,4211
+9,Blue mussel_626,1994,4017
+9,Blue mussel_626,1995,5801
+9,Blue mussel_626,1996,8347
+9,Blue mussel_626,1997,13127
+9,Blue mussel_626,1998,8956
+9,Blue mussel_626,1999,9535
+9,Blue mussel_626,2000,11107
+9,Blue mussel_626,2001,17332
+9,Blue mussel_626,2002,17580
+9,Blue mussel_626,2003,19218
+9,Blue mussel_626,2004,30699
+9,Blue mussel_626,2005,28506
+9,Blue mussel_626,2006,23960
+9,Blue mussel_626,2007,25669
+9,Blue mussel_626,2008,28247
+9,Blue mussel_626,2009,31929
+9,Blue mussel_626,2010,30212
+9,Blue mussel_626,2011,26158
+9,Blue mussel_626,2012,26021
+9,Blue mussel_626,2013,22480
+9,Blue mussel_626,2014,22500
+9,Common edible cockle_627,1989,2
+9,Common edible cockle_627,1990,3
+9,Common edible cockle_627,1991,3
+9,Common edible cockle_627,1992,3
+9,Common edible cockle_627,1993,4
+9,Common edible cockle_627,1994,3
+9,Common edible cockle_627,1995,5
+9,Common edible cockle_627,1996,8
+9,Common edible cockle_627,1997,20
+9,Common edible cockle_627,1998,10
+9,Common edible cockle_627,1999,43
+9,Common edible cockle_627,2000,43
+9,Common edible cockle_627,2001,105
+9,Common edible cockle_627,2002,105
+9,Common edible cockle_627,2003,20
+9,Common edible cockle_627,2004,24
+9,Common edible cockle_627,2005,5
+9,Common edible cockle_627,2006,0
+9,Common edible cockle_627,2007,2
+9,Common edible cockle_627,2008,2057
+9,Common edible cockle_627,2009,2027
+9,Common edible cockle_627,2010,7.3
+9,Common edible cockle_627,2011,5.6
+9,Common edible cockle_627,2012,0
+9,Common edible cockle_627,2013,2504
+9,Common edible cockle_627,2014,5
+9,Cupped oysters nei_628,1988,220
+9,Cupped oysters nei_628,1989,220
+9,Cupped oysters nei_628,1990,220
+9,Cupped oysters nei_628,1991,228
+9,Cupped oysters nei_628,1992,286
+9,Cupped oysters nei_628,1993,290
+9,Cupped oysters nei_628,1994,290
+9,Cupped oysters nei_628,1995,268
+9,Cupped oysters nei_628,1996,584
+9,Cupped oysters nei_628,1997,400
+9,Cupped oysters nei_628,1998,146
+9,Cupped oysters nei_628,1999,910
+9,Cupped oysters nei_628,2000,479
+9,Cupped oysters nei_628,2001,0
+9,Cupped oysters nei_628,2002,0
+9,Cupped oysters nei_628,2003,0
+9,Cupped oysters nei_628,2004,0
+9,Cupped oysters nei_628,2005,0
+9,Cupped oysters nei_628,2006,0
+9,Cupped oysters nei_628,2007,0
+9,Cupped oysters nei_628,2008,0
+9,Cupped oysters nei_628,2009,0
+9,Cupped oysters nei_628,2010,0
+9,Cupped oysters nei_628,2011,0
+9,Cupped oysters nei_628,2012,0
+9,Cupped oysters nei_628,2013,0
+9,Cupped oysters nei_628,2014,0
+9,European flat oyster_629,1987,86
+9,European flat oyster_629,1988,99
+9,European flat oyster_629,1989,60
+9,European flat oyster_629,1990,184
+9,European flat oyster_629,1991,76
+9,European flat oyster_629,1992,266
+9,European flat oyster_629,1993,310
+9,European flat oyster_629,1994,315
+9,European flat oyster_629,1995,189
+9,European flat oyster_629,1996,144
+9,European flat oyster_629,1997,90
+9,European flat oyster_629,1998,51
+9,European flat oyster_629,1999,11
+9,European flat oyster_629,2000,4
+9,European flat oyster_629,2001,145
+9,European flat oyster_629,2002,132
+9,European flat oyster_629,2003,144
+9,European flat oyster_629,2004,149
+9,European flat oyster_629,2005,42
+9,European flat oyster_629,2006,54
+9,European flat oyster_629,2007,87
+9,European flat oyster_629,2008,270
+9,European flat oyster_629,2009,265
+9,European flat oyster_629,2010,116.85
+9,European flat oyster_629,2011,114
+9,European flat oyster_629,2012,111
+9,European flat oyster_629,2013,55
+9,European flat oyster_629,2014,60
+9,European seabass_630,2003,12
+9,European seabass_630,2004,12
+9,European seabass_630,2005,0
+9,European seabass_630,2006,0
+9,European seabass_630,2007,0
+9,European seabass_630,2008,23
+9,European seabass_630,2009,322
+9,European seabass_630,2010,473
+9,European seabass_630,2011,490
+9,European seabass_630,2012,190
+9,European seabass_630,2013,252
+9,European seabass_630,2014,250
+9,Great Atlantic scallop_631,1986,25
+9,Great Atlantic scallop_631,1987,21
+9,Great Atlantic scallop_631,1988,9
+9,Great Atlantic scallop_631,1989,11
+9,Great Atlantic scallop_631,1990,13
+9,Great Atlantic scallop_631,1991,38
+9,Great Atlantic scallop_631,1992,59
+9,Great Atlantic scallop_631,1993,59
+9,Great Atlantic scallop_631,1994,24
+9,Great Atlantic scallop_631,1995,36
+9,Great Atlantic scallop_631,1996,36
+9,Great Atlantic scallop_631,1997,27
+9,Great Atlantic scallop_631,1998,41
+9,Great Atlantic scallop_631,1999,27
+9,Great Atlantic scallop_631,2000,41
+9,Great Atlantic scallop_631,2001,28
+9,Great Atlantic scallop_631,2002,39
+9,Great Atlantic scallop_631,2003,46
+9,Great Atlantic scallop_631,2004,14
+9,Great Atlantic scallop_631,2005,12
+9,Great Atlantic scallop_631,2006,10
+9,Great Atlantic scallop_631,2007,2
+9,Great Atlantic scallop_631,2008,15
+9,Great Atlantic scallop_631,2009,4
+9,Great Atlantic scallop_631,2010,0
+9,Great Atlantic scallop_631,2011,10
+9,Great Atlantic scallop_631,2012,7
+9,Great Atlantic scallop_631,2013,5
+9,Great Atlantic scallop_631,2014,10
+9,Grooved carpet shell_632,1986,0.1
+9,Grooved carpet shell_632,1987,1
+9,Grooved carpet shell_632,1988,0
+9,Grooved carpet shell_632,1989,0
+9,Grooved carpet shell_632,1990,0
+9,Grooved carpet shell_632,1991,0
+9,Grooved carpet shell_632,1992,1
+9,Grooved carpet shell_632,1993,1
+9,Grooved carpet shell_632,1994,0.1
+9,Grooved carpet shell_632,1995,0
+9,Grooved carpet shell_632,1996,0
+9,Grooved carpet shell_632,1997,0
+9,Grooved carpet shell_632,1998,0
+9,Grooved carpet shell_632,1999,0
+9,Grooved carpet shell_632,2000,0
+9,Grooved carpet shell_632,2001,0
+9,Grooved carpet shell_632,2002,0
+9,Grooved carpet shell_632,2003,5
+9,Grooved carpet shell_632,2004,5
+9,Grooved carpet shell_632,2005,0
+9,Grooved carpet shell_632,2006,4
+9,Grooved carpet shell_632,2007,4
+9,Grooved carpet shell_632,2008,0
+9,Grooved carpet shell_632,2009,0
+9,Grooved carpet shell_632,2010,0
+9,Grooved carpet shell_632,2011,0
+9,Grooved carpet shell_632,2012,0
+9,Grooved carpet shell_632,2013,0
+9,Grooved carpet shell_632,2014,0
+9,Japanese carpet shell_633,1989,0.1
+9,Japanese carpet shell_633,1990,46
+9,Japanese carpet shell_633,1991,50
+9,Japanese carpet shell_633,1992,48
+9,Japanese carpet shell_633,1993,51
+9,Japanese carpet shell_633,1994,21
+9,Japanese carpet shell_633,1995,17
+9,Japanese carpet shell_633,1996,21
+9,Japanese carpet shell_633,1997,36
+9,Japanese carpet shell_633,1998,31
+9,Japanese carpet shell_633,1999,29
+9,Japanese carpet shell_633,2000,29
+9,Japanese carpet shell_633,2001,36
+9,Japanese carpet shell_633,2002,36
+9,Japanese carpet shell_633,2003,23
+9,Japanese carpet shell_633,2004,50
+9,Japanese carpet shell_633,2005,5
+9,Japanese carpet shell_633,2006,50
+9,Japanese carpet shell_633,2007,1
+9,Japanese carpet shell_633,2008,0
+9,Japanese carpet shell_633,2009,10
+9,Japanese carpet shell_633,2010,14.5
+9,Japanese carpet shell_633,2011,5.2
+9,Japanese carpet shell_633,2012,5
+9,Japanese carpet shell_633,2013,11
+9,Japanese carpet shell_633,2014,5
+9,Northern quahog(=Hard clam)_634,2003,1
+9,Northern quahog(=Hard clam)_634,2004,1
+9,Northern quahog(=Hard clam)_634,2005,250
+9,Northern quahog(=Hard clam)_634,2006,0
+9,Northern quahog(=Hard clam)_634,2007,4
+9,Northern quahog(=Hard clam)_634,2008,4
+9,Northern quahog(=Hard clam)_634,2009,4
+9,Northern quahog(=Hard clam)_634,2010,12
+9,Northern quahog(=Hard clam)_634,2011,10
+9,Northern quahog(=Hard clam)_634,2012,9
+9,Northern quahog(=Hard clam)_634,2013,1
+9,Northern quahog(=Hard clam)_634,2014,10
+9,Pacific cupped oyster_635,1961,100
+9,Pacific cupped oyster_635,1962,0
+9,Pacific cupped oyster_635,1963,0
+9,Pacific cupped oyster_635,1964,100
+9,Pacific cupped oyster_635,1965,100
+9,Pacific cupped oyster_635,1966,100
+9,Pacific cupped oyster_635,1967,100
+9,Pacific cupped oyster_635,1968,100
+9,Pacific cupped oyster_635,1969,100
+9,Pacific cupped oyster_635,1970,100
+9,Pacific cupped oyster_635,1971,100
+9,Pacific cupped oyster_635,1972,0.1
+9,Pacific cupped oyster_635,1973,0.1
+9,Pacific cupped oyster_635,1974,1
+9,Pacific cupped oyster_635,1975,3
+9,Pacific cupped oyster_635,1976,6
+9,Pacific cupped oyster_635,1977,0.1
+9,Pacific cupped oyster_635,1978,10
+9,Pacific cupped oyster_635,1979,17
+9,Pacific cupped oyster_635,1980,30
+9,Pacific cupped oyster_635,1981,45
+9,Pacific cupped oyster_635,1982,39
+9,Pacific cupped oyster_635,1983,49
+9,Pacific cupped oyster_635,1984,124
+9,Pacific cupped oyster_635,1985,123
+9,Pacific cupped oyster_635,1986,216
+9,Pacific cupped oyster_635,1987,215
+9,Pacific cupped oyster_635,1988,257
+9,Pacific cupped oyster_635,1989,300
+9,Pacific cupped oyster_635,1990,262
+9,Pacific cupped oyster_635,1991,354
+9,Pacific cupped oyster_635,1992,415
+9,Pacific cupped oyster_635,1993,437
+9,Pacific cupped oyster_635,1994,357
+9,Pacific cupped oyster_635,1995,535
+9,Pacific cupped oyster_635,1996,553
+9,Pacific cupped oyster_635,1997,597
+9,Pacific cupped oyster_635,1998,559
+9,Pacific cupped oyster_635,1999,232
+9,Pacific cupped oyster_635,2000,633
+9,Pacific cupped oyster_635,2001,826
+9,Pacific cupped oyster_635,2002,796
+9,Pacific cupped oyster_635,2003,1012
+9,Pacific cupped oyster_635,2004,1504
+9,Pacific cupped oyster_635,2005,922
+9,Pacific cupped oyster_635,2006,1376
+9,Pacific cupped oyster_635,2007,1037
+9,Pacific cupped oyster_635,2008,766
+9,Pacific cupped oyster_635,2009,1366
+9,Pacific cupped oyster_635,2010,1149.6
+9,Pacific cupped oyster_635,2011,754
+9,Pacific cupped oyster_635,2012,1206
+9,Pacific cupped oyster_635,2013,1261
+9,Pacific cupped oyster_635,2014,1250
+9,Queen scallop_636,1986,4
+9,Queen scallop_636,1987,128
+9,Queen scallop_636,1988,172
+9,Queen scallop_636,1989,100
+9,Queen scallop_636,1990,54
+9,Queen scallop_636,1991,61
+9,Queen scallop_636,1992,62
+9,Queen scallop_636,1993,62
+9,Queen scallop_636,1994,38
+9,Queen scallop_636,1995,46
+9,Queen scallop_636,1996,51
+9,Queen scallop_636,1997,46
+9,Queen scallop_636,1998,147
+9,Queen scallop_636,1999,114
+9,Queen scallop_636,2000,58
+9,Queen scallop_636,2001,47
+9,Queen scallop_636,2002,19
+9,Queen scallop_636,2003,19
+9,Queen scallop_636,2004,50
+9,Queen scallop_636,2005,58
+9,Queen scallop_636,2006,60
+9,Queen scallop_636,2007,15
+9,Queen scallop_636,2008,27
+9,Queen scallop_636,2009,5.52
+9,Queen scallop_636,2010,7.3
+9,Queen scallop_636,2011,1
+9,Queen scallop_636,2012,0.4
+9,Queen scallop_636,2013,1
+9,Queen scallop_636,2014,1
+9,Rainbow trout_637,1979,97
+9,Rainbow trout_637,1980,86
+9,Rainbow trout_637,1981,112
+9,Rainbow trout_637,1982,133
+9,Rainbow trout_637,1983,73
+9,Rainbow trout_637,1984,87
+9,Rainbow trout_637,1985,81
+9,Rainbow trout_637,1986,247
+9,Rainbow trout_637,1987,641
+9,Rainbow trout_637,1988,709
+9,Rainbow trout_637,1989,482
+9,Rainbow trout_637,1990,1296
+9,Rainbow trout_637,1991,178
+9,Rainbow trout_638,1992,1
+9,Rainbow trout_637,1992,249
+9,Rainbow trout_638,1993,1
+9,Rainbow trout_637,1993,425
+9,Rainbow trout_638,1994,1
+9,Rainbow trout_637,1994,0
+9,Rainbow trout_638,1995,4
+9,Rainbow trout_637,1995,0
+9,Rainbow trout_638,1996,4
+9,Rainbow trout_637,1996,0
+9,Rainbow trout_638,1997,0.1
+9,Rainbow trout_637,1997,0
+9,Rainbow trout_638,1998,0.1
+9,Rainbow trout_637,1998,502
+9,Rainbow trout_638,1999,0.1
+9,Rainbow trout_637,1999,1075
+9,Rainbow trout_638,2000,0.1
+9,Rainbow trout_637,2000,784
+9,Rainbow trout_638,2001,0.1
+9,Rainbow trout_637,2001,561
+9,Rainbow trout_638,2002,0
+9,Rainbow trout_637,2002,997
+9,Rainbow trout_638,2003,0
+9,Rainbow trout_637,2003,997
+9,Rainbow trout_638,2004,0
+9,Rainbow trout_637,2004,1664
+9,Rainbow trout_638,2005,0
+9,Rainbow trout_637,2005,1242
+9,Rainbow trout_638,2006,0
+9,Rainbow trout_637,2006,2341
+9,Rainbow trout_638,2007,0
+9,Rainbow trout_637,2007,2353
+9,Rainbow trout_638,2008,0
+9,Rainbow trout_637,2008,2628
+9,Rainbow trout_638,2009,0
+9,Rainbow trout_637,2009,2620
+9,Rainbow trout_638,2010,0
+9,Rainbow trout_637,2010,1606
+9,Rainbow trout_638,2011,0
+9,Rainbow trout_637,2011,1156
+9,Rainbow trout_638,2012,0
+9,Rainbow trout_637,2012,2076
+9,Rainbow trout_638,2013,0
+9,Rainbow trout_637,2013,1964
+9,Rainbow trout_638,2014,0
+9,Rainbow trout_637,2014,2e3
+9,Sea trout_639,1999,50
+9,Sea trout_639,2000,42
+9,Sea trout_639,2001,12
+9,Sea trout_639,2002,92
+9,Sea trout_639,2003,92
+9,Sea trout_639,2004,116
+9,Sea trout_639,2005,75
+9,Sea trout_639,2006,207
+9,Sea trout_639,2007,71
+9,Sea trout_639,2008,311
+9,Sea trout_639,2009,0
+9,Sea trout_639,2010,6
+9,Sea trout_639,2011,17.5
+9,Sea trout_639,2012,8.2
+9,Sea trout_639,2013,2
+9,Sea trout_639,2014,2
+9,Turbot_640,2000,107
+9,Turbot_640,2001,120
+9,Turbot_640,2002,45
+9,Turbot_640,2003,128
+9,Turbot_640,2004,233
+9,Turbot_640,2005,58
+9,Turbot_640,2006,62
+9,Turbot_640,2007,62
+9,Turbot_640,2008,20
+9,Turbot_640,2009,1
+9,Turbot_640,2010,0.3
+9,Turbot_640,2011,0
+9,Turbot_640,2012,0
+9,Turbot_640,2013,0
+9,Turbot_640,2014,0
